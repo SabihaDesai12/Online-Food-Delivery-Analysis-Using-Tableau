@@ -1,0 +1,951 @@
+Timestamp,  What is your age group?  , How often do you order food online?  ,Which food delivery platform do you use most often?  ,What is your most common reason for ordering food online?  ,What type of food do you order most frequently?  ,How much do you usually spend on a single food order? (rupees),Which factor is most important when choosing a restaurant?  ,How often do discounts /coupons or  ratings and reviews influence your food choice & to place an order?  ,How often do you compare prices between different restaurants/apps before ordering?  ,What problem do you encounter most often with online food delivery?  ,How satisfied are you with your overall online food delivery experience?  
+06/09/2026 19:05:52,18-21,Occasionally (3–4 times a month),Others,Variety of food,Fast food,100-250,Ratings & reviews,Sometimes,Sometimes,No major problems,3
+06/09/2026 19:08:16,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Don't want to cook,"Indian, Chinese",100-250,"Price, Food Quality",Sometimes,Rarely,Late delivery/Food arrives cold,3
+06/09/2026 19:13:34,18-21,Very frequently (3+ times a week),Toing,Convenience/Saves time,"Indian, Fast food, Chinese, South Indian",100-250,"Price, Food Quality, Delivery time, Ratings & reviews, Restaurant variety",Sometimes,Sometimes,Incorrect/missing items,4
+06/09/2026 20:41:24,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Chinese",100-250,"Food Quality, Ratings & reviews",Sometimes,Often,Packaging issues,3
+06/09/2026 20:49:55,18-21,Rarely (1–2 times a month),Others,Don't want to cook,Chinese,100-250,"Food Quality, Ratings & reviews",Rarely,Sometimes,No major problems,4
+07/09/2026 09:36:53,18-21,Rarely (1–2 times a month),Toing,Discounts/Offers,"Indian, Fast food",100-250,"Price, Food Quality",Sometimes,Often,No major problems,4
+02/10/2026 15:18:22,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Fast food,251-500,Food Quality,,,,
+02/10/2026 15:26:42,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Fast food,251-500,Food Quality,,,,
+02/10/2026 15:26:55,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Fast food,251-500,Food Quality,,,,
+02/10/2026 15:27:48,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Fast food,251-500,Food Quality,Sometimes,Often,No major problems,5
+02/10/2026 15:28:04,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Fast food,251-500,Food Quality,Sometimes,Often,No major problems,5
+02/10/2026 15:28:49,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,"Indian, Fast food",100-250,"Food Quality, Ratings & reviews",Sometimes,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:29:15,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,Chinese,100-250,Ratings & reviews,Occasionally,Sometimes,No major problems,4
+02/10/2026 15:29:16,Above 31,Very frequently (3+ times a week),Zomato,Discounts/Offers,"South Indian, Chinese",251-500,"Food Quality, Restaurant variety",Sometimes,Often,Packaging issues,4
+02/10/2026 15:29:16,27-31,Occasionally (3–4 times a month),Toing,Convenience/Saves time,Chinese,501-750,Food Quality,Sometimes,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:29:16,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Fast food, Indian",251-500,"Food Quality, Price",Sometimes,Often,Incorrect/missing items,3
+02/10/2026 15:29:16,18-21,Frequently (1–2 times a week),Swiggy,Don't want to cook,"Indian, Chinese",251-500,"Food Quality, Delivery time",Sometimes,Never,Late delivery/Food arrives cold,2
+02/10/2026 15:29:16,18-21,Very frequently (3+ times a week),Toing,Convenience/Saves time,Indian,100-250,"Price, Delivery time",Occasionally,Sometimes,No major problems,5
+02/10/2026 15:29:16,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,Chinese,100-250,"Restaurant variety, Delivery time",Sometimes,Always,Poor food quality,2
+02/10/2026 15:29:17,18-21,Very frequently (3+ times a week),Zomato,Discounts/Offers,"Fast food, Indian",501-750,"Price, Delivery time",Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:17,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,"Indian, Chinese",100-250,Ratings & reviews,Sometimes,Sometimes,Packaging issues,5
+02/10/2026 15:29:18,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Indian, Fast food",100-250,Price,Sometimes,Rarely,Poor food quality,3
+02/10/2026 15:29:18,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Chinese, Fast food",251-500,"Restaurant variety, Food Quality",Sometimes,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:29:18,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,"Fast food, Indian",100-250,"Price, Delivery time",Sometimes,Sometimes,Late delivery/Food arrives cold,5
+02/10/2026 15:29:18,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Indian, Fast food",501-750,Ratings & reviews,Always,Often,Packaging issues,3
+02/10/2026 15:29:18,Below 18,Frequently (1–2 times a week),Others,Don't want to cook,"Indian, Fast food",100-250,Delivery time,Always,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:29:18,18-21,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,South Indian,251-500,Ratings & reviews,Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:18,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Chinese, Indian",251-500,Price,Sometimes,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:29:19,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,South Indian,251-500,Price,Occasionally,Rarely,No major problems,5
+02/10/2026 15:29:19,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Variety of food,"Indian, Fast food",251-500,"Food Quality, Delivery time",Always,Sometimes,No major problems,4
+02/10/2026 15:29:19,18-21,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,"Chinese, South Indian",100-250,Food Quality,Occasionally,Sometimes,No major problems,2
+02/10/2026 15:29:19,18-21,Frequently (1–2 times a week),Zomato,Discounts/Offers,"South Indian, Chinese",251-500,"Food Quality, Ratings & reviews",Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:19,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Indian, South Indian, Fast food",251-500,Ratings & reviews,Occasionally,Often,Poor food quality,2
+02/10/2026 15:29:19,18-21,Very frequently (3+ times a week),Zomato,Don't want to cook,"Chinese, Indian, Fast food",100-250,"Food Quality, Delivery time",Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:29:19,18-21,Frequently (1–2 times a week),Swiggy,Don't want to cook,Fast food,251-500,"Delivery time, Restaurant variety",Occasionally,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:29:20,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Fast food,100-250,Price,Sometimes,Often,Incorrect/missing items,3
+02/10/2026 15:29:20,22-26,Frequently (1–2 times a week),Zomato,Don't want to cook,"Fast food, Indian",251-500,"Price, Ratings & reviews",Always,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:29:20,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Fast food,251-500,Price,Sometimes,Sometimes,Incorrect/missing items,2
+02/10/2026 15:29:20,18-21,Frequently (1–2 times a week),Zomato,Variety of food,"Fast food, Indian",251-500,Food Quality,Sometimes,Always,Incorrect/missing items,3
+02/10/2026 15:29:21,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"South Indian, Indian, Chinese",251-500,"Price, Food Quality",Always,Rarely,Packaging issues,3
+02/10/2026 15:29:21,22-26,Very frequently (3+ times a week),Zomato,Discounts/Offers,"Fast food, Indian",251-500,"Price, Food Quality",Always,Never,Late delivery/Food arrives cold,3
+02/10/2026 15:29:21,22-26,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"Chinese, Fast food",251-500,Price,Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:21,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Fast food,100-250,Price,Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:21,18-21,Never,Zomato,Convenience/Saves time,Fast food,Below 100,"Price, Delivery time",Always,Always,No major problems,4
+02/10/2026 15:29:21,18-21,Occasionally (3–4 times a month),Swiggy,Don't want to cook,Indian,100-250,"Food Quality, Price",Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:21,Above 31,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Indian, South Indian, Chinese",251-500,Delivery time,Occasionally,Never,No major problems,4
+02/10/2026 15:29:21,22-26,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"Indian, Fast food",251-500,"Food Quality, Ratings & reviews",Sometimes,Always,Poor food quality,3
+02/10/2026 15:29:22,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Don't want to cook,"Indian, South Indian",100-250,"Ratings & reviews, Delivery time",Never,Sometimes,No major problems,3
+02/10/2026 15:29:22,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Fast food, Indian",100-250,"Ratings & reviews, Delivery time",Always,Never,No major problems,4
+02/10/2026 15:29:22,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,Chinese,100-250,"Price, Food Quality",Occasionally,Sometimes,No major problems,5
+02/10/2026 15:29:22,27-31,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Fast food, Indian",251-500,Delivery time,Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:22,18-21,Never,Zomato,Discounts/Offers,"Fast food, South Indian",100-250,Food Quality,Always,Sometimes,No major problems,2
+02/10/2026 15:29:23,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Fast food,251-500,"Price, Delivery time",Occasionally,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:29:23,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Don't want to cook,Indian,751-100,"Food Quality, Price",Sometimes,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:29:23,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"South Indian, Indian",251-500,Delivery time,Sometimes,Rarely,No major problems,3
+02/10/2026 15:29:23,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,Fast food,251-500,Ratings & reviews,Occasionally,Always,Late delivery/Food arrives cold,4
+02/10/2026 15:29:23,Below 18,Never,Zomato,Convenience/Saves time,"Indian, Chinese",251-500,Ratings & reviews,Rarely,Often,No major problems,5
+02/10/2026 15:29:23,22-26,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,Fast food,251-500,Ratings & reviews,Sometimes,Often,No major problems,4
+02/10/2026 15:29:24,22-26,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,Chinese,501-750,Food Quality,Rarely,Always,No major problems,5
+02/10/2026 15:29:24,18-21,Occasionally (3–4 times a month),Zomato,Variety of food,Indian,501-750,"Food Quality, Price",Always,Often,Packaging issues,3
+02/10/2026 15:29:24,27-31,Rarely (1–2 times a month),Zomato,Discounts/Offers,Fast food,100-250,"Restaurant variety, Food Quality",Sometimes,Often,Packaging issues,5
+02/10/2026 15:29:24,22-26,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Chinese, Fast food",251-500,Price,Occasionally,Sometimes,Poor food quality,4
+02/10/2026 15:29:24,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,"Fast food, South Indian",251-500,"Food Quality, Ratings & reviews",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:25,18-21,Never,Swiggy,Discounts/Offers,"Chinese, Indian, Fast food",100-250,Food Quality,Rarely,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:29:25,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Indian",251-500,"Delivery time, Food Quality",Sometimes,Often,No major problems,3
+02/10/2026 15:29:25,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Indian, Fast food",100-250,"Price, Food Quality",Sometimes,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:29:25,22-26,Frequently (1–2 times a week),Zomato,Variety of food,"Chinese, Indian",251-500,"Delivery time, Price",Always,Sometimes,Poor food quality,2
+02/10/2026 15:29:25,22-26,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Chinese, Fast food, Indian",251-500,"Food Quality, Ratings & reviews",Always,Sometimes,No major problems,4
+02/10/2026 15:29:26,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Fast food, Indian",100-250,Price,Occasionally,Often,Poor food quality,2
+02/10/2026 15:29:26,22-26,Occasionally (3–4 times a month),Toing,Discounts/Offers,"Indian, Fast food",251-500,"Restaurant variety, Food Quality",Occasionally,Always,No major problems,5
+02/10/2026 15:29:26,27-31,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Chinese, Indian, South Indian",501-750,"Food Quality, Ratings & reviews",Rarely,Always,Poor food quality,1
+02/10/2026 15:29:26,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Chinese, Fast food",251-500,Ratings & reviews,Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:27,18-21,Rarely (1–2 times a month),Zomato,Variety of food,"Indian, Fast food",251-500,Price,Occasionally,Sometimes,Packaging issues,3
+02/10/2026 15:29:26,22-26,Frequently (1–2 times a week),Zomato,Don't want to cook,"South Indian, Chinese, Indian",100-250,"Food Quality, Ratings & reviews",Sometimes,Sometimes,No major problems,3
+02/10/2026 15:29:27,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Indian,501-750,Restaurant variety,Sometimes,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:29:27,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"Chinese, Indian",100-250,"Price, Ratings & reviews",Always,Sometimes,No major problems,5
+02/10/2026 15:29:27,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Indian, Fast food, Chinese",501-750,Food Quality,Rarely,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:29:27,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,South Indian,100-250,Restaurant variety,Sometimes,Sometimes,No major problems,4
+02/10/2026 15:29:27,27-31,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,"Fast food, Indian",251-500,"Ratings & reviews, Food Quality",Rarely,Often,Late delivery/Food arrives cold,1
+02/10/2026 15:29:27,18-21,Frequently (1–2 times a week),Swiggy,Discounts/Offers,Fast food,More than 100,"Food Quality, Delivery time",Occasionally,Never,Poor food quality,3
+02/10/2026 15:29:28,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Indian, Chinese, Fast food",251-500,Food Quality,Sometimes,Sometimes,Packaging issues,1
+02/10/2026 15:29:28,18-21,Rarely (1–2 times a month),Others,Convenience/Saves time,Fast food,100-250,"Food Quality, Price",Sometimes,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:29:28,22-26,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,"Fast food, Chinese",100-250,"Ratings & reviews, Food Quality",Always,Often,No major problems,1
+02/10/2026 15:29:28,27-31,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"South Indian, Fast food",251-500,"Restaurant variety, Delivery time",Occasionally,Sometimes,No major problems,3
+02/10/2026 15:29:28,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Fast food, Indian",100-250,Food Quality,Always,Sometimes,No major problems,4
+02/10/2026 15:29:28,18-21,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Fast food, Chinese",251-500,"Price, Food Quality",Sometimes,Often,Incorrect/missing items,3
+02/10/2026 15:29:29,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Chinese, Indian, Fast food",100-250,"Food Quality, Price",Occasionally,Rarely,Poor food quality,4
+02/10/2026 15:29:29,22-26,Very frequently (3+ times a week),Zomato,Convenience/Saves time,"Fast food, South Indian, Indian",100-250,"Price, Delivery time",Always,Sometimes,No major problems,3
+02/10/2026 15:29:29,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,Chinese,100-250,"Price, Food Quality",Occasionally,Often,Packaging issues,3
+02/10/2026 15:29:30,22-26,Rarely (1–2 times a month),Others,Discounts/Offers,"Indian, Fast food",751-100,"Food Quality, Ratings & reviews",Sometimes,Sometimes,No major problems,3
+02/10/2026 15:29:30,Above 31,Occasionally (3–4 times a month),Zomato,Don't want to cook,South Indian,More than 100,Ratings & reviews,Sometimes,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:29:30,27-31,Rarely (1–2 times a month),"Zomato, Swiggy",Don't want to cook,"Fast food, South Indian",251-500,Delivery time,Sometimes,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:29:30,18-21,Occasionally (3–4 times a month),Swiggy,Don't want to cook,Indian,251-500,Price,Sometimes,Often,No major problems,4
+02/10/2026 15:29:30,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Chinese, Fast food",501-750,"Food Quality, Price",Always,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:29:30,22-26,Never,Zomato,Don't want to cook,"Chinese, Fast food, Indian",100-250,"Food Quality, Restaurant variety",Sometimes,Always,No major problems,4
+02/10/2026 15:29:31,22-26,Never,"Zomato, Swiggy",Don't want to cook,Chinese,More than 100,Food Quality,Sometimes,Often,Packaging issues,4
+02/10/2026 15:29:31,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Chinese, Fast food",100-250,Price,Occasionally,Sometimes,Poor food quality,3
+02/10/2026 15:29:31,22-26,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"Chinese, Indian",251-500,Price,Rarely,Often,No major problems,4
+02/10/2026 15:29:31,27-31,Frequently (1–2 times a week),Toing,Convenience/Saves time,"Indian, South Indian",100-250,"Food Quality, Ratings & reviews",Sometimes,Sometimes,No major problems,4
+02/10/2026 15:29:31,22-26,Rarely (1–2 times a month),Toing,Discounts/Offers,"Chinese, Indian, South Indian",251-500,Delivery time,Sometimes,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:29:31,22-26,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,Fast food,751-100,"Delivery time, Food Quality",Sometimes,Sometimes,Poor food quality,3
+02/10/2026 15:29:32,18-21,Never,Zomato,Discounts/Offers,"Chinese, Indian",251-500,"Food Quality, Price",Sometimes,Often,No major problems,5
+02/10/2026 15:29:32,18-21,Very frequently (3+ times a week),Swiggy,Convenience/Saves time,"Indian, Chinese",251-500,"Food Quality, Price",Sometimes,Rarely,No major problems,4
+02/10/2026 15:29:32,18-21,Very frequently (3+ times a week),Swiggy,Don't want to cook,"Fast food, Chinese, Indian",251-500,Price,Rarely,Sometimes,Incorrect/missing items,2
+02/10/2026 15:29:32,Below 18,Occasionally (3–4 times a month),Zomato,Variety of food,"Fast food, Chinese",251-500,"Price, Food Quality",Sometimes,Sometimes,No major problems,3
+02/10/2026 15:29:32,18-21,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,"Fast food, South Indian",100-250,Food Quality,Sometimes,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:29:33,18-21,Rarely (1–2 times a month),Toing,Variety of food,"South Indian, Chinese",100-250,"Food Quality, Price",Always,Always,Late delivery/Food arrives cold,5
+02/10/2026 15:29:33,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Fast food, Indian",100-250,"Delivery time, Food Quality",Occasionally,Sometimes,No major problems,4
+02/10/2026 15:29:33,18-21,Very frequently (3+ times a week),Zomato,Don't want to cook,Indian,251-500,"Food Quality, Restaurant variety",Sometimes,Sometimes,No major problems,1
+02/10/2026 15:29:33,22-26,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,South Indian,501-750,Food Quality,Occasionally,Rarely,Packaging issues,4
+02/10/2026 15:29:33,18-21,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Indian, South Indian",100-250,"Food Quality, Price",Always,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:29:34,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Indian,100-250,Delivery time,Rarely,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:29:34,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Chinese",100-250,Price,Occasionally,Often,Packaging issues,1
+02/10/2026 15:29:34,18-21,Occasionally (3–4 times a month),Zomato,Variety of food,Fast food,251-500,"Food Quality, Delivery time",Always,Often,No major problems,5
+02/10/2026 15:29:34,18-21,Frequently (1–2 times a week),Zomato,Discounts/Offers,Chinese,251-500,"Price, Delivery time",Sometimes,Rarely,Poor food quality,1
+02/10/2026 15:29:34,Above 31,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Indian, Fast food",251-500,"Food Quality, Ratings & reviews",Sometimes,Sometimes,Poor food quality,2
+02/10/2026 15:29:34,18-21,Frequently (1–2 times a week),Zomato,Variety of food,"Fast food, South Indian",251-500,"Ratings & reviews, Food Quality",Rarely,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:29:35,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Indian, Fast food",251-500,"Ratings & reviews, Price",Occasionally,Sometimes,No major problems,4
+02/10/2026 15:29:35,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,Chinese,100-250,"Price, Ratings & reviews",Sometimes,Always,Poor food quality,3
+02/10/2026 15:29:35,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"South Indian, Fast food",Below 100,"Ratings & reviews, Delivery time",Occasionally,Always,Late delivery/Food arrives cold,5
+02/10/2026 15:29:35,27-31,Occasionally (3–4 times a month),Zomato,Don't want to cook,"Fast food, Indian",251-500,"Ratings & reviews, Price",Occasionally,Always,Poor food quality,3
+02/10/2026 15:29:35,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Chinese",100-250,"Food Quality, Delivery time",Sometimes,Often,Packaging issues,4
+02/10/2026 15:29:35,22-26,Frequently (1–2 times a week),Zomato,Don't want to cook,"Chinese, Indian, Fast food",251-500,Ratings & reviews,Never,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:29:36,18-21,Very frequently (3+ times a week),Zomato,Convenience/Saves time,"Fast food, Chinese",251-500,"Delivery time, Ratings & reviews",Sometimes,Rarely,Late delivery/Food arrives cold,2
+02/10/2026 15:29:36,18-21,Rarely (1–2 times a month),Toing,Variety of food,"Indian, Chinese",100-250,"Food Quality, Price",Sometimes,Rarely,Packaging issues,3
+02/10/2026 15:29:36,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,Chinese,More than 100,Price,Rarely,Sometimes,Poor food quality,2
+02/10/2026 15:29:36,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Fast food, Chinese",100-250,"Price, Delivery time",Always,Rarely,Packaging issues,2
+02/10/2026 15:29:36,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,Fast food,251-500,"Food Quality, Price",Always,Sometimes,Poor food quality,1
+02/10/2026 15:29:36,18-21,Frequently (1–2 times a week),Swiggy,Variety of food,"Indian, South Indian",251-500,"Delivery time, Restaurant variety",Rarely,Often,Incorrect/missing items,3
+02/10/2026 15:29:37,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,Fast food,251-500,"Delivery time, Food Quality",Always,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:29:37,18-21,Rarely (1–2 times a month),Zomato,Don't want to cook,Fast food,251-500,"Delivery time, Ratings & reviews",Always,Never,Late delivery/Food arrives cold,3
+02/10/2026 15:29:37,18-21,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Chinese, Fast food",100-250,Delivery time,Always,Rarely,Packaging issues,5
+02/10/2026 15:29:37,22-26,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Fast food, Indian",251-500,Delivery time,Sometimes,Never,Late delivery/Food arrives cold,4
+02/10/2026 15:29:37,22-26,Rarely (1–2 times a month),Toing,Convenience/Saves time,Fast food,100-250,"Food Quality, Delivery time",Occasionally,Often,No major problems,5
+02/10/2026 15:29:37,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Fast food, Chinese, Indian",100-250,"Ratings & reviews, Price",Always,Sometimes,Poor food quality,5
+02/10/2026 15:29:37,27-31,Very frequently (3+ times a week),Zomato,Variety of food,Fast food,100-250,"Food Quality, Delivery time",Sometimes,Sometimes,No major problems,4
+02/10/2026 15:29:38,22-26,Very frequently (3+ times a week),Swiggy,Convenience/Saves time,"Indian, Chinese",100-250,"Food Quality, Price",Sometimes,Always,Incorrect/missing items,2
+02/10/2026 15:29:38,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"South Indian, Indian, Fast food",100-250,Delivery time,Occasionally,Always,No major problems,4
+02/10/2026 15:29:38,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Chinese,251-500,"Price, Food Quality",Sometimes,Often,No major problems,5
+02/10/2026 15:29:38,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Chinese, Fast food, Indian",251-500,Restaurant variety,Sometimes,Rarely,Late delivery/Food arrives cold,5
+02/10/2026 15:29:38,22-26,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"South Indian, Fast food",100-250,Delivery time,Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:38,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,Chinese,100-250,Food Quality,Occasionally,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:29:38,22-26,Occasionally (3–4 times a month),Zomato,Variety of food,Chinese,100-250,"Food Quality, Delivery time",Sometimes,Sometimes,No major problems,4
+02/10/2026 15:29:39,27-31,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,Fast food,100-250,Delivery time,Sometimes,Always,No major problems,2
+02/10/2026 15:29:39,22-26,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,South Indian,100-250,Delivery time,Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:29:39,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,Fast food,100-250,"Food Quality, Price",Occasionally,Sometimes,Late delivery/Food arrives cold,1
+02/10/2026 15:29:39,22-26,Frequently (1–2 times a week),Others,Don't want to cook,"South Indian, Fast food, Chinese",501-750,Food Quality,Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:29:39,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Indian,501-750,Price,Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:40,27-31,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Chinese, Fast food, Indian",251-500,Delivery time,Sometimes,Always,No major problems,4
+02/10/2026 15:29:40,Above 31,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,Indian,501-750,Food Quality,Always,Sometimes,Incorrect/missing items,2
+02/10/2026 15:29:40,18-21,Occasionally (3–4 times a month),Zomato,Don't want to cook,"Fast food, South Indian, Indian",501-750,Food Quality,Occasionally,Never,Late delivery/Food arrives cold,3
+02/10/2026 15:29:40,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"South Indian, Fast food, Chinese",100-250,"Delivery time, Food Quality",Sometimes,Sometimes,Incorrect/missing items,4
+02/10/2026 15:29:40,22-26,Frequently (1–2 times a week),Zomato,Variety of food,"Chinese, Indian, Fast food",251-500,Delivery time,Always,Never,No major problems,5
+02/10/2026 15:29:40,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Variety of food,"Indian, Fast food",100-250,"Food Quality, Ratings & reviews",Occasionally,Sometimes,No major problems,5
+02/10/2026 15:29:40,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"South Indian, Chinese, Indian",251-500,"Food Quality, Ratings & reviews",Always,Sometimes,Poor food quality,3
+02/10/2026 15:29:41,Above 31,Very frequently (3+ times a week),Swiggy,Convenience/Saves time,Fast food,501-750,"Price, Food Quality",Sometimes,Never,Late delivery/Food arrives cold,3
+02/10/2026 15:29:41,18-21,Very frequently (3+ times a week),Zomato,Discounts/Offers,"Indian, Fast food",251-500,"Delivery time, Food Quality",Sometimes,Sometimes,Incorrect/missing items,2
+02/10/2026 15:29:41,18-21,Never,"Zomato, Swiggy",Discounts/Offers,Chinese,251-500,"Food Quality, Price",Occasionally,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:29:41,18-21,Rarely (1–2 times a month),Zomato,Don't want to cook,"Indian, South Indian",Below 100,"Price, Food Quality",Occasionally,Sometimes,No major problems,5
+02/10/2026 15:29:41,18-21,Rarely (1–2 times a month),Swiggy,Don't want to cook,South Indian,100-250,"Price, Delivery time",Sometimes,Sometimes,Poor food quality,1
+02/10/2026 15:29:41,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"South Indian, Indian",251-500,Price,Occasionally,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:29:42,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,"Chinese, Fast food",251-500,"Price, Food Quality",Rarely,Sometimes,No major problems,4
+02/10/2026 15:29:42,22-26,Occasionally (3–4 times a month),Zomato,Variety of food,"Chinese, Indian",100-250,Food Quality,Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:42,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,Fast food,501-750,Food Quality,Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:29:42,22-26,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Fast food, Indian",501-750,"Delivery time, Food Quality",Sometimes,Often,Incorrect/missing items,2
+02/10/2026 15:29:42,18-21,Frequently (1–2 times a week),Swiggy,Don't want to cook,"South Indian, Fast food",100-250,"Restaurant variety, Food Quality",Sometimes,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:29:42,18-21,Frequently (1–2 times a week),Swiggy,Discounts/Offers,Indian,100-250,"Price, Restaurant variety",Rarely,Sometimes,No major problems,5
+02/10/2026 15:29:43,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Fast food,100-250,Price,Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:43,22-26,Very frequently (3+ times a week),Zomato,Discounts/Offers,"Chinese, Fast food",501-750,"Price, Ratings & reviews",Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:29:43,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Variety of food,"Chinese, Fast food",100-250,"Food Quality, Restaurant variety",Never,Always,Poor food quality,3
+02/10/2026 15:29:43,18-21,Never,Swiggy,Variety of food,"Indian, Fast food, South Indian",100-250,"Price, Delivery time",Rarely,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:43,18-21,Occasionally (3–4 times a month),Zomato,Don't want to cook,"Fast food, Indian",501-750,Price,Sometimes,Rarely,Late delivery/Food arrives cold,2
+02/10/2026 15:29:43,22-26,Very frequently (3+ times a week),Zomato,Convenience/Saves time,"South Indian, Indian",100-250,"Price, Food Quality",Sometimes,Rarely,No major problems,3
+02/10/2026 15:29:43,22-26,Frequently (1–2 times a week),Zomato,Variety of food,"Fast food, Chinese",251-500,"Food Quality, Price",Rarely,Often,No major problems,5
+02/10/2026 15:29:44,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Indian, Chinese",251-500,"Food Quality, Delivery time",Occasionally,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:29:44,18-21,Frequently (1–2 times a week),Zomato,Variety of food,Fast food,251-500,"Ratings & reviews, Food Quality",Sometimes,Sometimes,No major problems,4
+02/10/2026 15:29:44,22-26,Frequently (1–2 times a week),Swiggy,Don't want to cook,"Indian, South Indian",100-250,"Food Quality, Ratings & reviews",Occasionally,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:29:44,22-26,Frequently (1–2 times a week),Swiggy,Variety of food,Indian,Below 100,Food Quality,Sometimes,Sometimes,No major problems,5
+02/10/2026 15:29:44,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Chinese, Fast food, Indian",251-500,"Price, Ratings & reviews",Sometimes,Often,Poor food quality,3
+02/10/2026 15:29:44,27-31,Rarely (1–2 times a month),Zomato,Discounts/Offers,"South Indian, Chinese",251-500,"Restaurant variety, Food Quality",Rarely,Rarely,No major problems,5
+02/10/2026 15:29:44,22-26,Occasionally (3–4 times a month),Zomato,Variety of food,"Indian, Chinese, South Indian",100-250,"Food Quality, Price",Sometimes,Sometimes,Poor food quality,3
+02/10/2026 15:29:45,22-26,Rarely (1–2 times a month),Zomato,Don't want to cook,"Fast food, Indian",251-500,"Delivery time, Food Quality",Always,Often,Packaging issues,4
+02/10/2026 15:29:45,22-26,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,Fast food,251-500,Food Quality,Occasionally,Often,Poor food quality,2
+02/10/2026 15:29:45,22-26,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"Fast food, Indian",251-500,"Ratings & reviews, Restaurant variety",Sometimes,Always,Late delivery/Food arrives cold,1
+02/10/2026 15:29:45,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,Fast food,251-500,Delivery time,Sometimes,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:29:45,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Indian, Fast food",251-500,"Restaurant variety, Food Quality",Rarely,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:29:46,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,South Indian,100-250,"Food Quality, Delivery time",Sometimes,Never,No major problems,3
+02/10/2026 15:29:46,22-26,Very frequently (3+ times a week),"Zomato, Swiggy",Discounts/Offers,"Fast food, South Indian",251-500,"Price, Food Quality",Always,Rarely,No major problems,4
+02/10/2026 15:29:46,27-31,Frequently (1–2 times a week),Zomato,Variety of food,Indian,251-500,"Food Quality, Delivery time",Sometimes,Sometimes,No major problems,4
+02/10/2026 15:29:46,22-26,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,"Chinese, Fast food",100-250,"Price, Food Quality",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:46,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Fast food, Indian, Chinese",251-500,Food Quality,Never,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:29:47,18-21,Occasionally (3–4 times a month),Zomato,Variety of food,Indian,251-500,Price,Sometimes,Often,Late delivery/Food arrives cold,1
+02/10/2026 15:29:47,22-26,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"Fast food, Indian, Chinese",251-500,"Food Quality, Delivery time",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:47,18-21,Rarely (1–2 times a month),Toing,Discounts/Offers,Chinese,100-250,Food Quality,Always,Often,Poor food quality,4
+02/10/2026 15:29:47,18-21,Very frequently (3+ times a week),Zomato,Variety of food,Chinese,251-500,"Ratings & reviews, Food Quality",Sometimes,Often,Packaging issues,4
+02/10/2026 15:29:47,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,Fast food,251-500,Price,Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:48,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Fast food, Chinese",100-250,"Food Quality, Price",Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:48,22-26,Occasionally (3–4 times a month),Others,Discounts/Offers,Indian,251-500,Food Quality,Always,Sometimes,No major problems,2
+02/10/2026 15:29:48,22-26,Very frequently (3+ times a week),"Zomato, Swiggy",Convenience/Saves time,"South Indian, Fast food, Indian",251-500,Food Quality,Always,Often,Packaging issues,5
+02/10/2026 15:29:48,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Fast food, Chinese",Below 100,Restaurant variety,Sometimes,Often,Poor food quality,3
+02/10/2026 15:29:48,27-31,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,Indian,251-500,"Price, Ratings & reviews",Occasionally,Often,Incorrect/missing items,2
+02/10/2026 15:29:48,22-26,Occasionally (3–4 times a month),Zomato,Don't want to cook,Indian,501-750,Food Quality,Occasionally,Sometimes,Poor food quality,2
+02/10/2026 15:29:48,18-21,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Fast food, South Indian",251-500,"Price, Delivery time",Occasionally,Sometimes,No major problems,4
+02/10/2026 15:29:49,18-21,Frequently (1–2 times a week),Swiggy,Discounts/Offers,Fast food,100-250,"Price, Food Quality",Always,Sometimes,Packaging issues,4
+02/10/2026 15:29:49,27-31,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"South Indian, Indian",251-500,"Delivery time, Price",Occasionally,Sometimes,No major problems,4
+02/10/2026 15:29:49,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Fast food,100-250,Restaurant variety,Occasionally,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:29:49,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,Fast food,100-250,"Delivery time, Food Quality",Rarely,Sometimes,No major problems,4
+02/10/2026 15:29:49,22-26,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Indian, Fast food",501-750,"Price, Restaurant variety",Occasionally,Never,Incorrect/missing items,4
+02/10/2026 15:29:49,18-21,Frequently (1–2 times a week),Swiggy,Don't want to cook,"Indian, Fast food",501-750,"Price, Food Quality",Occasionally,Always,Packaging issues,3
+02/10/2026 15:29:49,18-21,Never,Swiggy,Discounts/Offers,Indian,251-500,Delivery time,Never,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:49,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"Indian, Chinese, Fast food",251-500,"Price, Food Quality",Always,Sometimes,Late delivery/Food arrives cold,1
+02/10/2026 15:29:50,18-21,Very frequently (3+ times a week),Zomato,Convenience/Saves time,"Indian, Chinese, Fast food",251-500,Price,Rarely,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:29:50,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Chinese, Indian, Fast food",501-750,"Delivery time, Ratings & reviews",Rarely,Sometimes,Poor food quality,4
+02/10/2026 15:29:50,22-26,Occasionally (3–4 times a month),Zomato,Variety of food,"Indian, Fast food",251-500,"Food Quality, Restaurant variety",Sometimes,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:29:50,18-21,Never,Zomato,Convenience/Saves time,Fast food,100-250,"Price, Food Quality",Occasionally,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:29:50,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Chinese, Indian",Below 100,Ratings & reviews,Always,Sometimes,No major problems,5
+02/10/2026 15:29:51,22-26,Frequently (1–2 times a week),Swiggy,Don't want to cook,"Indian, South Indian",100-250,Food Quality,Always,Sometimes,Poor food quality,3
+02/10/2026 15:29:51,18-21,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Chinese, Fast food",251-500,"Delivery time, Food Quality",Occasionally,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:29:51,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"Chinese, Fast food",251-500,"Food Quality, Price",Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:51,22-26,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"Chinese, Indian, Fast food",501-750,"Price, Restaurant variety",Rarely,Never,No major problems,5
+02/10/2026 15:29:51,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Don't want to cook,"Chinese, Fast food",501-750,"Price, Ratings & reviews",Sometimes,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:29:51,18-21,Occasionally (3–4 times a month),Zomato,Variety of food,"Fast food, Chinese",251-500,"Price, Food Quality",Always,Rarely,No major problems,5
+02/10/2026 15:29:51,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Indian, Chinese",251-500,"Ratings & reviews, Price",Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:51,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Chinese, Fast food, Indian",251-500,Delivery time,Rarely,Sometimes,Incorrect/missing items,3
+02/10/2026 15:29:52,27-31,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Indian,251-500,"Price, Food Quality",Sometimes,Sometimes,No major problems,3
+02/10/2026 15:29:52,22-26,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Fast food, Chinese, South Indian",501-750,Delivery time,Sometimes,Always,No major problems,4
+02/10/2026 15:29:52,18-21,Occasionally (3–4 times a month),Zomato,Variety of food,"Fast food, Indian",100-250,"Food Quality, Delivery time",Sometimes,Always,Poor food quality,2
+02/10/2026 15:29:52,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"South Indian, Chinese",100-250,Restaurant variety,Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:52,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Indian",100-250,"Ratings & reviews, Price",Occasionally,Sometimes,No major problems,5
+02/10/2026 15:29:52,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Indian, Chinese",100-250,Restaurant variety,Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:53,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,"South Indian, Chinese",100-250,Food Quality,Always,Sometimes,Poor food quality,4
+02/10/2026 15:29:53,18-21,Rarely (1–2 times a month),Others,Discounts/Offers,"Indian, Fast food, South Indian",100-250,"Price, Delivery time",Occasionally,Never,Incorrect/missing items,5
+02/10/2026 15:29:53,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"South Indian, Chinese",100-250,"Food Quality, Ratings & reviews",Sometimes,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:29:53,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"South Indian, Fast food, Indian",251-500,Delivery time,Sometimes,Rarely,Late delivery/Food arrives cold,2
+02/10/2026 15:29:53,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Variety of food,"Fast food, Chinese",100-250,Price,Occasionally,Sometimes,No major problems,3
+02/10/2026 15:29:53,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Chinese",501-750,"Price, Delivery time",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:29:53,22-26,Frequently (1–2 times a week),Swiggy,Variety of food,"Fast food, Indian",251-500,"Delivery time, Food Quality",Sometimes,Always,No major problems,3
+02/10/2026 15:29:54,18-21,Frequently (1–2 times a week),Others,Convenience/Saves time,Chinese,More than 100,Food Quality,Always,Always,Late delivery/Food arrives cold,4
+02/10/2026 15:29:54,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Fast food, Indian",251-500,"Food Quality, Restaurant variety",Sometimes,Rarely,No major problems,3
+02/10/2026 15:29:54,22-26,Very frequently (3+ times a week),Zomato,Convenience/Saves time,"Fast food, Chinese, South Indian",251-500,"Ratings & reviews, Delivery time",Occasionally,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:29:54,27-31,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, South Indian",100-250,"Food Quality, Restaurant variety",Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:54,Below 18,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Chinese, South Indian",501-750,"Food Quality, Price",Always,Rarely,Packaging issues,3
+02/10/2026 15:29:54,22-26,Frequently (1–2 times a week),Zomato,Variety of food,"Fast food, Chinese",751-100,Price,Never,Sometimes,No major problems,4
+02/10/2026 15:29:55,18-21,Rarely (1–2 times a month),Zomato,Don't want to cook,"South Indian, Indian",100-250,"Price, Ratings & reviews",Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:55,18-21,Occasionally (3–4 times a month),Swiggy,Don't want to cook,South Indian,251-500,"Food Quality, Restaurant variety",Occasionally,Often,Poor food quality,2
+02/10/2026 15:29:55,22-26,Very frequently (3+ times a week),Zomato,Convenience/Saves time,Fast food,501-750,"Price, Food Quality",Occasionally,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:29:55,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,South Indian,251-500,"Delivery time, Food Quality",Sometimes,Sometimes,Poor food quality,2
+02/10/2026 15:29:55,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,South Indian,100-250,"Price, Food Quality",Always,Never,Late delivery/Food arrives cold,3
+02/10/2026 15:29:55,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Chinese, Indian",100-250,"Food Quality, Restaurant variety",Always,Sometimes,Packaging issues,3
+02/10/2026 15:29:56,18-21,Rarely (1–2 times a month),Zomato,Variety of food,"Fast food, Indian",100-250,"Restaurant variety, Ratings & reviews",Rarely,Sometimes,Incorrect/missing items,3
+02/10/2026 15:29:56,22-26,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,Indian,251-500,"Price, Food Quality",Sometimes,Often,No major problems,5
+02/10/2026 15:29:56,18-21,Very frequently (3+ times a week),Swiggy,Convenience/Saves time,Fast food,501-750,"Food Quality, Delivery time",Occasionally,Often,Incorrect/missing items,3
+02/10/2026 15:29:56,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Chinese, Fast food",501-750,"Delivery time, Price",Sometimes,Rarely,No major problems,4
+02/10/2026 15:29:56,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,"Fast food, Indian",251-500,"Delivery time, Ratings & reviews",Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:29:56,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"South Indian, Chinese",More than 100,Ratings & reviews,Always,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:29:57,18-21,Rarely (1–2 times a month),Swiggy,Don't want to cook,Indian,251-500,Food Quality,Occasionally,Often,Packaging issues,3
+02/10/2026 15:29:57,22-26,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Fast food, South Indian",501-750,Delivery time,Sometimes,Always,Incorrect/missing items,2
+02/10/2026 15:29:57,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,Chinese,751-100,"Restaurant variety, Ratings & reviews",Occasionally,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:29:57,18-21,Never,Swiggy,Convenience/Saves time,"Fast food, South Indian, Indian",251-500,Restaurant variety,Occasionally,Sometimes,No major problems,5
+02/10/2026 15:29:57,27-31,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Indian, South Indian",251-500,Ratings & reviews,Always,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:29:57,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,Fast food,100-250,"Restaurant variety, Price",Occasionally,Sometimes,No major problems,4
+02/10/2026 15:29:57,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,South Indian,251-500,Restaurant variety,Occasionally,Sometimes,No major problems,5
+02/10/2026 15:29:58,Above 31,Very frequently (3+ times a week),Zomato,Discounts/Offers,"Fast food, Chinese",100-250,Price,Always,Always,Packaging issues,4
+02/10/2026 15:29:58,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,South Indian,251-500,Food Quality,Occasionally,Always,No major problems,4
+02/10/2026 15:29:58,27-31,Rarely (1–2 times a month),Zomato,Convenience/Saves time,Chinese,251-500,Food Quality,Sometimes,Sometimes,Packaging issues,4
+02/10/2026 15:29:58,22-26,Occasionally (3–4 times a month),Swiggy,Don't want to cook,Indian,100-250,"Price, Delivery time",Occasionally,Rarely,No major problems,5
+02/10/2026 15:29:58,18-21,Occasionally (3–4 times a month),Toing,Don't want to cook,"Fast food, Indian",501-750,"Price, Food Quality",Sometimes,Always,Poor food quality,3
+02/10/2026 15:29:59,18-21,Rarely (1–2 times a month),Zomato,Variety of food,"Fast food, Chinese",501-750,"Delivery time, Food Quality",Rarely,Rarely,Poor food quality,2
+02/10/2026 15:29:59,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Indian, South Indian, Fast food",100-250,Price,Sometimes,Always,Poor food quality,5
+02/10/2026 15:29:59,18-21,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"Chinese, Fast food",100-250,"Ratings & reviews, Price",Always,Sometimes,Poor food quality,2
+02/10/2026 15:29:59,22-26,Frequently (1–2 times a week),Swiggy,Discounts/Offers,South Indian,251-500,Delivery time,Occasionally,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:00,Above 31,Very frequently (3+ times a week),Zomato,Discounts/Offers,Indian,501-750,Food Quality,Rarely,Never,Late delivery/Food arrives cold,3
+02/10/2026 15:29:59,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Fast food, Chinese, Indian",251-500,Price,Sometimes,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:30:00,Below 18,Frequently (1–2 times a week),Zomato,Don't want to cook,Fast food,251-500,"Ratings & reviews, Food Quality",Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:00,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Fast food, Chinese",251-500,"Food Quality, Delivery time",Sometimes,Often,Incorrect/missing items,1
+02/10/2026 15:30:00,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Fast food, Chinese, Indian",501-750,"Restaurant variety, Ratings & reviews",Sometimes,Always,Late delivery/Food arrives cold,1
+02/10/2026 15:30:00,18-21,Very frequently (3+ times a week),"Zomato, Swiggy",Convenience/Saves time,"Fast food, South Indian",100-250,"Price, Food Quality",Rarely,Often,Incorrect/missing items,3
+02/10/2026 15:30:00,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"South Indian, Chinese, Fast food",Below 100,"Price, Ratings & reviews",Always,Often,No major problems,4
+02/10/2026 15:30:00,18-21,Occasionally (3–4 times a month),Others,Convenience/Saves time,"Indian, Chinese",100-250,"Food Quality, Ratings & reviews",Always,Never,Late delivery/Food arrives cold,3
+02/10/2026 15:30:00,18-21,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Indian, Chinese",100-250,Price,Always,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:30:01,22-26,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"Fast food, Indian",251-500,"Food Quality, Price",Always,Always,Poor food quality,2
+02/10/2026 15:30:01,22-26,Very frequently (3+ times a week),Swiggy,Convenience/Saves time,"Chinese, Indian",501-750,"Food Quality, Ratings & reviews",Occasionally,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:01,18-21,Very frequently (3+ times a week),Swiggy,Variety of food,"Chinese, Fast food",100-250,"Food Quality, Ratings & reviews",Sometimes,Often,No major problems,5
+02/10/2026 15:30:01,Above 31,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,"Fast food, South Indian",251-500,"Delivery time, Price",Sometimes,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:30:01,18-21,Never,Swiggy,Convenience/Saves time,Indian,100-250,"Delivery time, Ratings & reviews",Always,Often,No major problems,4
+02/10/2026 15:30:01,22-26,Occasionally (3–4 times a month),Zomato,Don't want to cook,"Chinese, South Indian, Fast food",More than 100,"Ratings & reviews, Price",Always,Always,No major problems,4
+02/10/2026 15:30:01,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,Chinese,251-500,"Food Quality, Ratings & reviews",Occasionally,Rarely,Packaging issues,3
+02/10/2026 15:30:02,27-31,Frequently (1–2 times a week),Zomato,Discounts/Offers,"South Indian, Fast food",Below 100,"Ratings & reviews, Delivery time",Sometimes,Rarely,Poor food quality,2
+02/10/2026 15:30:02,18-21,Rarely (1–2 times a month),Zomato,Don't want to cook,Chinese,Below 100,"Delivery time, Food Quality",Occasionally,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:30:02,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Fast food, Indian, Chinese",100-250,Ratings & reviews,Always,Always,No major problems,4
+02/10/2026 15:30:02,18-21,Very frequently (3+ times a week),Swiggy,Discounts/Offers,"Indian, Fast food",251-500,Food Quality,Rarely,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:30:03,Below 18,Occasionally (3–4 times a month),"Zomato, Swiggy",Don't want to cook,"Fast food, Indian",100-250,Food Quality,Always,Always,Packaging issues,3
+02/10/2026 15:30:03,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Indian, South Indian",Below 100,"Delivery time, Food Quality",Rarely,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:03,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Indian, Chinese",251-500,"Ratings & reviews, Price",Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:03,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,Chinese,501-750,"Ratings & reviews, Food Quality",Sometimes,Sometimes,Poor food quality,2
+02/10/2026 15:30:03,27-31,Very frequently (3+ times a week),Toing,Convenience/Saves time,South Indian,100-250,Delivery time,Sometimes,Often,Packaging issues,4
+02/10/2026 15:30:03,18-21,Frequently (1–2 times a week),Swiggy,Don't want to cook,Indian,251-500,"Restaurant variety, Food Quality",Never,Sometimes,Packaging issues,5
+02/10/2026 15:30:03,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Chinese, South Indian",100-250,"Restaurant variety, Price",Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:04,18-21,Occasionally (3–4 times a month),Zomato,Don't want to cook,"Fast food, Chinese, South Indian",100-250,"Food Quality, Delivery time",Occasionally,Always,Late delivery/Food arrives cold,4
+02/10/2026 15:30:04,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Chinese",100-250,Ratings & reviews,Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:04,22-26,Very frequently (3+ times a week),Swiggy,Convenience/Saves time,"Fast food, South Indian",100-250,"Delivery time, Price",Occasionally,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:30:04,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Don't want to cook,"Fast food, Indian",251-500,Price,Occasionally,Often,No major problems,3
+02/10/2026 15:30:04,22-26,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Chinese, South Indian",501-750,"Food Quality, Price",Sometimes,Often,Poor food quality,2
+02/10/2026 15:30:04,22-26,Frequently (1–2 times a week),Toing,Don't want to cook,"Indian, Fast food",100-250,"Food Quality, Ratings & reviews",Occasionally,Rarely,No major problems,4
+02/10/2026 15:30:05,22-26,Frequently (1–2 times a week),Swiggy,Don't want to cook,Indian,501-750,"Food Quality, Ratings & reviews",Rarely,Often,No major problems,5
+02/10/2026 15:30:05,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Variety of food,"Indian, South Indian",100-250,"Ratings & reviews, Delivery time",Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:05,22-26,Frequently (1–2 times a week),Toing,Convenience/Saves time,"Chinese, Indian",251-500,"Food Quality, Price",Always,Always,Late delivery/Food arrives cold,4
+02/10/2026 15:30:05,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,Fast food,501-750,Restaurant variety,Rarely,Never,No major problems,4
+02/10/2026 15:30:05,22-26,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"Indian, Fast food",501-750,"Delivery time, Ratings & reviews",Occasionally,Rarely,Late delivery/Food arrives cold,2
+02/10/2026 15:30:05,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Fast food, Indian, Chinese",100-250,Delivery time,Occasionally,Often,Late delivery/Food arrives cold,1
+02/10/2026 15:30:06,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Fast food,251-500,Delivery time,Rarely,Never,Late delivery/Food arrives cold,2
+02/10/2026 15:30:06,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Indian,Below 100,Price,Always,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:06,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Indian, Fast food, Chinese",100-250,Food Quality,Sometimes,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:30:06,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Chinese, Fast food",751-100,"Restaurant variety, Price",Occasionally,Always,Late delivery/Food arrives cold,4
+02/10/2026 15:30:06,18-21,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,"Indian, South Indian",251-500,Food Quality,Rarely,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:30:06,Below 18,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"Fast food, Chinese",251-500,"Food Quality, Ratings & reviews",Rarely,Rarely,Incorrect/missing items,2
+02/10/2026 15:30:05,Below 18,Frequently (1–2 times a week),Toing,Convenience/Saves time,"South Indian, Indian",100-250,"Food Quality, Price",Occasionally,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:30:07,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Indian, Chinese, Fast food",Below 100,Ratings & reviews,Always,Always,No major problems,3
+02/10/2026 15:30:07,18-21,Rarely (1–2 times a month),Swiggy,Variety of food,"Fast food, Indian",251-500,Food Quality,Occasionally,Always,No major problems,4
+02/10/2026 15:30:07,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Indian,100-250,"Price, Food Quality",Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:30:07,22-26,Very frequently (3+ times a week),Zomato,Convenience/Saves time,Fast food,251-500,Food Quality,Occasionally,Rarely,Late delivery/Food arrives cold,2
+02/10/2026 15:30:07,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Indian, South Indian",100-250,"Price, Food Quality",Always,Often,Packaging issues,3
+02/10/2026 15:30:07,18-21,Rarely (1–2 times a month),Toing,Convenience/Saves time,"Fast food, Indian",100-250,"Price, Restaurant variety",Sometimes,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:08,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Don't want to cook,Fast food,501-750,Food Quality,Sometimes,Rarely,Poor food quality,2
+02/10/2026 15:30:08,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Variety of food,"Chinese, Indian",100-250,Food Quality,Always,Never,Late delivery/Food arrives cold,2
+02/10/2026 15:30:08,18-21,Frequently (1–2 times a week),Toing,Don't want to cook,"Chinese, Indian",100-250,Food Quality,Occasionally,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:30:08,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Don't want to cook,Chinese,501-750,"Price, Food Quality",Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:30:08,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Fast food, Chinese",100-250,"Food Quality, Price",Sometimes,Often,No major problems,4
+02/10/2026 15:30:08,22-26,Frequently (1–2 times a week),Swiggy,Don't want to cook,"Fast food, South Indian",251-500,"Food Quality, Ratings & reviews",Always,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:09,18-21,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Chinese, Fast food",100-250,"Food Quality, Restaurant variety",Sometimes,Rarely,Poor food quality,3
+02/10/2026 15:30:09,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,"Fast food, South Indian",100-250,Food Quality,Occasionally,Sometimes,Late delivery/Food arrives cold,1
+02/10/2026 15:30:09,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"South Indian, Indian",251-500,"Price, Food Quality",Occasionally,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:30:08,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Indian, Chinese, Fast food",251-500,"Food Quality, Price",Occasionally,Often,No major problems,5
+02/10/2026 15:30:09,22-26,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Indian, Fast food",251-500,Food Quality,Always,Sometimes,Incorrect/missing items,2
+02/10/2026 15:30:09,22-26,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,"Indian, Fast food",501-750,"Food Quality, Delivery time",Occasionally,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:10,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Fast food,251-500,Price,Occasionally,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:30:10,22-26,Frequently (1–2 times a week),Swiggy,Discounts/Offers,Chinese,251-500,"Delivery time, Food Quality",Sometimes,Sometimes,Poor food quality,2
+02/10/2026 15:30:10,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Chinese",251-500,"Price, Food Quality",Occasionally,Sometimes,Incorrect/missing items,3
+02/10/2026 15:30:10,22-26,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Fast food, Chinese",501-750,Delivery time,Sometimes,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:10,18-21,Rarely (1–2 times a month),Zomato,Variety of food,"Chinese, Fast food, Indian",100-250,Food Quality,Sometimes,Sometimes,No major problems,5
+02/10/2026 15:30:10,27-31,Rarely (1–2 times a month),Toing,Variety of food,Fast food,100-250,Ratings & reviews,Occasionally,Always,No major problems,3
+02/10/2026 15:30:10,18-21,Frequently (1–2 times a week),Others,Convenience/Saves time,"South Indian, Fast food",100-250,Restaurant variety,Always,Sometimes,No major problems,5
+02/10/2026 15:30:10,27-31,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Chinese, Fast food",751-100,"Price, Ratings & reviews",Sometimes,Always,Poor food quality,3
+02/10/2026 15:30:10,22-26,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,Fast food,251-500,Price,Occasionally,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:30:11,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Indian, Fast food, Chinese",251-500,Price,Never,Rarely,Packaging issues,3
+02/10/2026 15:30:11,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Don't want to cook,"Chinese, Fast food",100-250,Food Quality,Sometimes,Often,No major problems,4
+02/10/2026 15:30:11,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Indian,251-500,Food Quality,Occasionally,Often,Poor food quality,1
+02/10/2026 15:30:11,22-26,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,"South Indian, Fast food",251-500,Food Quality,Occasionally,Always,Late delivery/Food arrives cold,4
+02/10/2026 15:30:11,22-26,Frequently (1–2 times a week),Swiggy,Variety of food,"Fast food, Indian",100-250,Price,Rarely,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:30:11,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"Indian, Chinese",100-250,"Ratings & reviews, Price",Sometimes,Often,No major problems,5
+02/10/2026 15:30:12,18-21,Very frequently (3+ times a week),Others,Convenience/Saves time,Chinese,251-500,"Ratings & reviews, Price",Rarely,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:12,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Fast food,501-750,"Ratings & reviews, Restaurant variety",Never,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:30:12,22-26,Frequently (1–2 times a week),Zomato,Variety of food,"Fast food, Chinese",501-750,"Restaurant variety, Food Quality",Rarely,Sometimes,No major problems,3
+02/10/2026 15:30:12,27-31,Never,Swiggy,Variety of food,Fast food,More than 100,"Price, Restaurant variety",Sometimes,Always,Poor food quality,2
+02/10/2026 15:30:12,18-21,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"Chinese, Fast food",100-250,Price,Sometimes,Sometimes,Poor food quality,4
+02/10/2026 15:30:12,22-26,Very frequently (3+ times a week),"Zomato, Swiggy",Discounts/Offers,Indian,100-250,"Delivery time, Restaurant variety",Occasionally,Rarely,Packaging issues,5
+02/10/2026 15:30:13,27-31,Occasionally (3–4 times a month),Swiggy,Variety of food,"Indian, Fast food",501-750,Ratings & reviews,Occasionally,Sometimes,Poor food quality,3
+02/10/2026 15:30:13,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,Indian,251-500,"Price, Restaurant variety",Occasionally,Sometimes,Packaging issues,4
+02/10/2026 15:30:13,18-21,Occasionally (3–4 times a month),Zomato,Variety of food,"South Indian, Indian",Below 100,Food Quality,Sometimes,Never,Late delivery/Food arrives cold,2
+02/10/2026 15:30:13,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Indian",251-500,Food Quality,Always,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:30:13,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Fast food,251-500,Ratings & reviews,Rarely,Sometimes,Packaging issues,4
+02/10/2026 15:30:13,27-31,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"Fast food, South Indian",251-500,"Price, Food Quality",Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:14,18-21,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,"Indian, Fast food",100-250,"Price, Delivery time",Rarely,Sometimes,No major problems,5
+02/10/2026 15:30:14,18-21,Rarely (1–2 times a month),Swiggy,Variety of food,Indian,251-500,Price,Sometimes,Often,No major problems,4
+02/10/2026 15:30:14,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,Fast food,100-250,Food Quality,Sometimes,Always,Late delivery/Food arrives cold,4
+02/10/2026 15:30:14,Below 18,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Indian,100-250,Delivery time,Always,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:30:14,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Fast food, South Indian, Indian",251-500,Food Quality,Always,Rarely,No major problems,4
+02/10/2026 15:30:14,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,Fast food,251-500,"Food Quality, Price",Sometimes,Rarely,Incorrect/missing items,2
+02/10/2026 15:30:14,18-21,Never,Swiggy,Discounts/Offers,Fast food,251-500,"Ratings & reviews, Restaurant variety",Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:15,22-26,Very frequently (3+ times a week),Zomato,Convenience/Saves time,"Fast food, Chinese, South Indian",251-500,"Price, Ratings & reviews",Sometimes,Often,No major problems,4
+02/10/2026 15:30:15,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Chinese, Fast food, Indian",251-500,"Food Quality, Price",Occasionally,Rarely,Packaging issues,3
+02/10/2026 15:30:15,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,South Indian,251-500,"Food Quality, Price",Always,Often,Late delivery/Food arrives cold,1
+02/10/2026 15:30:15,22-26,Frequently (1–2 times a week),Zomato,Discounts/Offers,Chinese,100-250,Ratings & reviews,Rarely,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:15,27-31,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,South Indian,751-100,"Price, Food Quality",Sometimes,Rarely,No major problems,4
+02/10/2026 15:30:15,Below 18,Occasionally (3–4 times a month),Zomato,Variety of food,Chinese,251-500,"Price, Food Quality",Sometimes,Rarely,No major problems,5
+02/10/2026 15:30:15,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, South Indian",100-250,Delivery time,Always,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:30:16,22-26,Frequently (1–2 times a week),"Zomato, Swiggy",Don't want to cook,"Indian, Fast food",501-750,Ratings & reviews,Occasionally,Never,Late delivery/Food arrives cold,3
+02/10/2026 15:30:16,18-21,Frequently (1–2 times a week),Others,Don't want to cook,"Fast food, Chinese",100-250,"Food Quality, Price",Sometimes,Always,Late delivery/Food arrives cold,4
+02/10/2026 15:30:16,18-21,Occasionally (3–4 times a month),Others,Don't want to cook,"Chinese, Indian",251-500,"Delivery time, Food Quality",Rarely,Sometimes,Poor food quality,3
+02/10/2026 15:30:16,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Fast food, Indian",100-250,"Price, Food Quality",Rarely,Sometimes,No major problems,4
+02/10/2026 15:30:15,18-21,Rarely (1–2 times a month),Zomato,Variety of food,Chinese,100-250,"Restaurant variety, Price",Rarely,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:30:16,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Indian",251-500,Food Quality,Always,Always,No major problems,4
+02/10/2026 15:30:16,22-26,Rarely (1–2 times a month),Zomato,Variety of food,"Indian, South Indian",251-500,"Price, Food Quality",Sometimes,Often,Packaging issues,4
+02/10/2026 15:30:16,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Fast food,251-500,"Delivery time, Food Quality",Occasionally,Rarely,No major problems,4
+02/10/2026 15:30:16,22-26,Rarely (1–2 times a month),Zomato,Don't want to cook,"Fast food, Chinese, South Indian",251-500,"Price, Ratings & reviews",Rarely,Always,Incorrect/missing items,2
+02/10/2026 15:30:17,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Indian, Chinese",251-500,"Price, Food Quality",Occasionally,Always,No major problems,5
+02/10/2026 15:30:17,22-26,Occasionally (3–4 times a month),Others,Don't want to cook,"Indian, Fast food, Chinese",501-750,Food Quality,Sometimes,Always,Poor food quality,2
+02/10/2026 15:30:17,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Indian, Fast food",251-500,Food Quality,Always,Often,Poor food quality,4
+02/10/2026 15:30:17,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Chinese, Fast food",100-250,Ratings & reviews,Rarely,Sometimes,Packaging issues,4
+02/10/2026 15:30:17,27-31,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"Fast food, Chinese, Indian",251-500,Price,Sometimes,Rarely,Incorrect/missing items,3
+02/10/2026 15:30:18,22-26,Occasionally (3–4 times a month),Swiggy,Don't want to cook,Indian,501-750,Food Quality,Never,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:30:18,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,Indian,100-250,"Food Quality, Restaurant variety",Rarely,Always,No major problems,4
+02/10/2026 15:30:18,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Variety of food,South Indian,251-500,Delivery time,Sometimes,Sometimes,Poor food quality,3
+02/10/2026 15:30:18,18-21,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"South Indian, Chinese",251-500,"Delivery time, Price",Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:18,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,"Chinese, Fast food",251-500,Food Quality,Never,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:18,22-26,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Fast food, Chinese",100-250,"Delivery time, Restaurant variety",Rarely,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:30:19,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,Fast food,501-750,"Price, Food Quality",Always,Always,No major problems,5
+02/10/2026 15:30:19,22-26,Very frequently (3+ times a week),Zomato,Convenience/Saves time,"Fast food, South Indian",251-500,"Delivery time, Price",Occasionally,Sometimes,No major problems,4
+02/10/2026 15:30:19,18-21,Rarely (1–2 times a month),Zomato,Don't want to cook,"Indian, South Indian",501-750,Delivery time,Sometimes,Often,No major problems,4
+02/10/2026 15:30:19,18-21,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,Fast food,Below 100,"Price, Food Quality",Occasionally,Sometimes,Incorrect/missing items,4
+02/10/2026 15:30:19,18-21,Occasionally (3–4 times a month),Toing,Convenience/Saves time,"South Indian, Indian, Fast food",100-250,Food Quality,Sometimes,Sometimes,Incorrect/missing items,2
+02/10/2026 15:30:19,22-26,Very frequently (3+ times a week),"Zomato, Swiggy",Variety of food,"Fast food, Chinese",100-250,"Food Quality, Price",Occasionally,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:20,22-26,Frequently (1–2 times a week),Swiggy,Don't want to cook,Indian,501-750,"Ratings & reviews, Restaurant variety",Occasionally,Rarely,No major problems,4
+02/10/2026 15:30:20,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Indian",251-500,Price,Sometimes,Often,Poor food quality,3
+02/10/2026 15:30:20,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"South Indian, Fast food",251-500,Price,Never,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:20,18-21,Very frequently (3+ times a week),Others,Discounts/Offers,"South Indian, Indian",751-100,Food Quality,Always,Never,Incorrect/missing items,2
+02/10/2026 15:30:20,18-21,Frequently (1–2 times a week),Zomato,Variety of food,Chinese,100-250,"Price, Ratings & reviews",Occasionally,Never,Late delivery/Food arrives cold,4
+02/10/2026 15:30:20,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Fast food, Chinese, Indian",100-250,"Food Quality, Price",Occasionally,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:30:21,22-26,Occasionally (3–4 times a month),Toing,Convenience/Saves time,Chinese,100-250,Food Quality,Rarely,Often,Incorrect/missing items,3
+02/10/2026 15:30:21,22-26,Rarely (1–2 times a month),Swiggy,Don't want to cook,"South Indian, Fast food, Chinese",501-750,"Price, Food Quality",Occasionally,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:30:21,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,Chinese,100-250,Ratings & reviews,Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:21,18-21,Very frequently (3+ times a week),Zomato,Don't want to cook,"Fast food, Indian, South Indian",251-500,Food Quality,Never,Always,No major problems,4
+02/10/2026 15:30:21,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,Indian,251-500,Price,Rarely,Sometimes,Incorrect/missing items,2
+02/10/2026 15:30:21,22-26,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Fast food, Indian, Chinese",751-100,"Food Quality, Delivery time",Sometimes,Never,Incorrect/missing items,3
+02/10/2026 15:30:21,18-21,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Chinese, Fast food",251-500,"Food Quality, Price",Occasionally,Often,Poor food quality,2
+02/10/2026 15:30:21,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"Chinese, South Indian",501-750,Price,Occasionally,Always,Late delivery/Food arrives cold,1
+02/10/2026 15:30:22,18-21,Very frequently (3+ times a week),"Zomato, Swiggy",Discounts/Offers,"Fast food, Indian",251-500,"Ratings & reviews, Food Quality",Rarely,Often,No major problems,4
+02/10/2026 15:30:22,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,Indian,251-500,"Delivery time, Food Quality",Sometimes,Always,No major problems,4
+02/10/2026 15:30:22,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,Fast food,251-500,"Price, Delivery time",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:22,18-21,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"Indian, Fast food",100-250,"Delivery time, Food Quality",Sometimes,Often,No major problems,4
+02/10/2026 15:30:22,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,Indian,251-500,"Ratings & reviews, Food Quality",Occasionally,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:30:22,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Chinese, Fast food",100-250,Ratings & reviews,Rarely,Often,No major problems,5
+02/10/2026 15:30:22,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"South Indian, Fast food",251-500,"Restaurant variety, Food Quality",Sometimes,Sometimes,Poor food quality,3
+02/10/2026 15:30:23,18-21,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"South Indian, Chinese",100-250,Delivery time,Sometimes,Often,Late delivery/Food arrives cold,5
+02/10/2026 15:30:23,27-31,Very frequently (3+ times a week),Swiggy,Convenience/Saves time,Fast food,251-500,"Price, Food Quality",Occasionally,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:23,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Indian, Fast food",Below 100,Ratings & reviews,Always,Often,Poor food quality,3
+02/10/2026 15:30:23,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"South Indian, Indian, Fast food",100-250,"Price, Ratings & reviews",Sometimes,Never,Packaging issues,5
+02/10/2026 15:30:23,18-21,Occasionally (3–4 times a month),Zomato,Don't want to cook,"Indian, Chinese",501-750,"Price, Food Quality",Sometimes,Always,Packaging issues,5
+02/10/2026 15:30:23,18-21,Never,Zomato,Variety of food,Fast food,251-500,"Price, Delivery time",Always,Sometimes,Poor food quality,3
+02/10/2026 15:30:24,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Indian, Fast food",251-500,Food Quality,Rarely,Always,No major problems,4
+02/10/2026 15:30:24,27-31,Frequently (1–2 times a week),Others,Convenience/Saves time,"Indian, Chinese",100-250,"Food Quality, Price",Rarely,Rarely,Poor food quality,3
+02/10/2026 15:30:24,18-21,Never,Swiggy,Convenience/Saves time,"Chinese, Fast food",251-500,"Price, Ratings & reviews",Always,Always,Incorrect/missing items,3
+02/10/2026 15:30:24,27-31,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,"Fast food, Indian",251-500,"Price, Delivery time",Rarely,Often,No major problems,4
+02/10/2026 15:30:24,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,Fast food,100-250,"Delivery time, Price",Occasionally,Often,Incorrect/missing items,2
+02/10/2026 15:30:25,18-21,Occasionally (3–4 times a month),Zomato,Don't want to cook,South Indian,251-500,"Price, Ratings & reviews",Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:30:25,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Fast food, Chinese",251-500,"Ratings & reviews, Food Quality",Occasionally,Often,Incorrect/missing items,3
+02/10/2026 15:30:25,Below 18,Rarely (1–2 times a month),Zomato,Don't want to cook,"Fast food, South Indian",100-250,Food Quality,Always,Often,Poor food quality,2
+02/10/2026 15:30:25,18-21,Very frequently (3+ times a week),Zomato,Don't want to cook,"Fast food, Chinese",100-250,Food Quality,Always,Often,Incorrect/missing items,3
+02/10/2026 15:30:26,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Fast food, Chinese",100-250,Food Quality,Rarely,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:26,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Indian, South Indian",251-500,"Restaurant variety, Food Quality",Sometimes,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:30:25,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Indian, Chinese",100-250,Price,Always,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:26,Above 31,Very frequently (3+ times a week),Swiggy,Convenience/Saves time,Fast food,501-750,"Price, Ratings & reviews",Occasionally,Often,Poor food quality,5
+02/10/2026 15:30:26,18-21,Frequently (1–2 times a week),Swiggy,Don't want to cook,"Fast food, Indian, South Indian",251-500,Food Quality,Sometimes,Sometimes,No major problems,3
+02/10/2026 15:30:26,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Indian, Chinese, Fast food",100-250,"Delivery time, Food Quality",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:27,18-21,Rarely (1–2 times a month),Zomato,Don't want to cook,Indian,501-750,"Delivery time, Food Quality",Sometimes,Often,Late delivery/Food arrives cold,1
+02/10/2026 15:30:27,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"South Indian, Chinese",100-250,"Food Quality, Delivery time",Always,Sometimes,Incorrect/missing items,5
+02/10/2026 15:30:27,22-26,Very frequently (3+ times a week),Zomato,Convenience/Saves time,Fast food,501-750,"Ratings & reviews, Delivery time",Rarely,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:30:27,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Indian, Fast food, Chinese",100-250,"Price, Food Quality",Occasionally,Often,Poor food quality,3
+02/10/2026 15:30:27,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"South Indian, Fast food",100-250,"Price, Food Quality",Occasionally,Always,No major problems,4
+02/10/2026 15:30:26,18-21,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Fast food, Indian, Chinese",251-500,Price,Sometimes,Often,Poor food quality,4
+02/10/2026 15:30:26,18-21,Very frequently (3+ times a week),Others,Convenience/Saves time,Indian,251-500,"Delivery time, Food Quality",Sometimes,Rarely,Packaging issues,3
+02/10/2026 15:30:28,Below 18,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Fast food,100-250,Food Quality,Rarely,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:28,22-26,Rarely (1–2 times a month),Zomato,Variety of food,"Fast food, Indian",100-250,Food Quality,Always,Often,Poor food quality,3
+02/10/2026 15:30:28,22-26,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"South Indian, Chinese",501-750,"Delivery time, Food Quality",Sometimes,Sometimes,Poor food quality,3
+02/10/2026 15:30:28,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,"Fast food, Chinese",100-250,Ratings & reviews,Always,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:30:28,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Chinese",251-500,Price,Rarely,Rarely,Poor food quality,2
+02/10/2026 15:30:28,Below 18,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Indian, Chinese",100-250,"Food Quality, Delivery time",Sometimes,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:30:28,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,Indian,251-500,"Delivery time, Ratings & reviews",Sometimes,Never,Packaging issues,3
+02/10/2026 15:30:29,18-21,Rarely (1–2 times a month),Zomato,Don't want to cook,"Fast food, Chinese, South Indian",251-500,"Restaurant variety, Food Quality",Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:29,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,Fast food,251-500,"Food Quality, Restaurant variety",Sometimes,Often,Incorrect/missing items,2
+02/10/2026 15:30:29,22-26,Frequently (1–2 times a week),Zomato,Variety of food,"Fast food, Chinese, South Indian",751-100,"Food Quality, Delivery time",Occasionally,Rarely,Packaging issues,4
+02/10/2026 15:30:29,18-21,Occasionally (3–4 times a month),Zomato,Don't want to cook,"Fast food, Chinese",251-500,"Delivery time, Price",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:29,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Fast food, Chinese",100-250,Restaurant variety,Occasionally,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:29,22-26,Frequently (1–2 times a week),Zomato,Don't want to cook,Fast food,751-100,Price,Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:29,18-21,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"Fast food, Chinese",100-250,"Ratings & reviews, Price",Sometimes,Always,Poor food quality,4
+02/10/2026 15:30:30,18-21,Frequently (1–2 times a week),Zomato,Variety of food,"Chinese, Fast food",100-250,"Price, Ratings & reviews",Sometimes,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:30:30,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Fast food, Chinese, Indian",251-500,Food Quality,Sometimes,Often,No major problems,4
+02/10/2026 15:30:30,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,Fast food,251-500,"Ratings & reviews, Food Quality",Sometimes,Often,Poor food quality,3
+02/10/2026 15:30:30,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Fast food, Indian",251-500,"Price, Food Quality",Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:30,18-21,Very frequently (3+ times a week),Zomato,Don't want to cook,"South Indian, Fast food, Chinese",100-250,"Delivery time, Food Quality",Occasionally,Often,Packaging issues,3
+02/10/2026 15:30:31,22-26,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"South Indian, Fast food, Indian",251-500,"Food Quality, Price",Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:31,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Chinese, Fast food, Indian",251-500,Food Quality,Always,Always,Late delivery/Food arrives cold,4
+02/10/2026 15:30:31,18-21,Occasionally (3–4 times a month),Toing,Convenience/Saves time,"South Indian, Fast food",251-500,Food Quality,Always,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:30:31,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Chinese",251-500,Food Quality,Sometimes,Sometimes,Packaging issues,3
+02/10/2026 15:30:31,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Chinese,100-250,Food Quality,Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:31,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Indian, Fast food",251-500,Food Quality,Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:30:31,18-21,Very frequently (3+ times a week),Toing,Don't want to cook,Chinese,251-500,"Delivery time, Food Quality",Sometimes,Sometimes,Poor food quality,3
+02/10/2026 15:30:32,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Fast food,251-500,Ratings & reviews,Sometimes,Often,Packaging issues,4
+02/10/2026 15:30:32,22-26,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,Fast food,251-500,"Ratings & reviews, Price",Occasionally,Often,No major problems,4
+02/10/2026 15:30:32,22-26,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"South Indian, Indian, Fast food",251-500,"Delivery time, Restaurant variety",Sometimes,Often,No major problems,4
+02/10/2026 15:30:31,Below 18,Frequently (1–2 times a week),"Zomato, Swiggy",Variety of food,Fast food,251-500,"Ratings & reviews, Food Quality",Rarely,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:32,18-21,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"South Indian, Fast food",251-500,"Food Quality, Price",Sometimes,Sometimes,Late delivery/Food arrives cold,5
+02/10/2026 15:30:32,27-31,Occasionally (3–4 times a month),Toing,Don't want to cook,"Chinese, Fast food, Indian",251-500,"Restaurant variety, Delivery time",Occasionally,Sometimes,No major problems,5
+02/10/2026 15:30:33,18-21,Frequently (1–2 times a week),Toing,Convenience/Saves time,"South Indian, Indian, Fast food",751-100,Price,Sometimes,Rarely,Poor food quality,3
+02/10/2026 15:30:33,27-31,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Fast food, Chinese",100-250,"Food Quality, Restaurant variety",Sometimes,Often,Packaging issues,4
+02/10/2026 15:30:33,22-26,Very frequently (3+ times a week),Swiggy,Don't want to cook,South Indian,501-750,"Restaurant variety, Delivery time",Always,Never,Late delivery/Food arrives cold,1
+02/10/2026 15:30:33,18-21,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"Chinese, South Indian",251-500,"Price, Delivery time",Sometimes,Rarely,No major problems,5
+02/10/2026 15:30:33,18-21,Very frequently (3+ times a week),Zomato,Discounts/Offers,Fast food,100-250,"Delivery time, Price",Sometimes,Sometimes,No major problems,5
+02/10/2026 15:30:33,18-21,Rarely (1–2 times a month),Swiggy,Don't want to cook,Indian,100-250,"Food Quality, Delivery time",Always,Always,Poor food quality,2
+02/10/2026 15:30:33,22-26,Occasionally (3–4 times a month),Others,Discounts/Offers,Chinese,251-500,"Price, Food Quality",Occasionally,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:33,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Variety of food,"Indian, Fast food",251-500,"Food Quality, Price",Rarely,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:30:34,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Chinese, South Indian",100-250,"Food Quality, Delivery time",Occasionally,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:30:34,Above 31,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Chinese, Indian",Below 100,Price,Sometimes,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:30:34,Below 18,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Indian, South Indian, Fast food",251-500,"Ratings & reviews, Price",Always,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:30:34,18-21,Rarely (1–2 times a month),Swiggy,Variety of food,Chinese,251-500,Delivery time,Always,Never,Late delivery/Food arrives cold,3
+02/10/2026 15:30:34,18-21,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Indian, South Indian",501-750,"Ratings & reviews, Food Quality",Occasionally,Sometimes,No major problems,4
+02/10/2026 15:30:34,22-26,Very frequently (3+ times a week),Swiggy,Don't want to cook,"Chinese, Indian, Fast food",Below 100,"Food Quality, Ratings & reviews",Rarely,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:35,18-21,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,Indian,251-500,"Ratings & reviews, Delivery time",Sometimes,Rarely,Poor food quality,2
+02/10/2026 15:30:35,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Chinese",251-500,Delivery time,Always,Often,Packaging issues,4
+02/10/2026 15:30:35,18-21,Very frequently (3+ times a week),Zomato,Don't want to cook,"South Indian, Fast food, Indian",251-500,Restaurant variety,Rarely,Often,No major problems,4
+02/10/2026 15:30:35,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"South Indian, Indian, Fast food",100-250,Food Quality,Occasionally,Always,No major problems,4
+02/10/2026 15:30:35,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Fast food, Chinese",251-500,"Food Quality, Ratings & reviews",Always,Sometimes,Late delivery/Food arrives cold,5
+02/10/2026 15:30:36,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,Fast food,251-500,"Price, Ratings & reviews",Occasionally,Never,Late delivery/Food arrives cold,1
+02/10/2026 15:30:36,18-21,Never,Zomato,Variety of food,"Indian, South Indian",251-500,Delivery time,Never,Never,Late delivery/Food arrives cold,1
+02/10/2026 15:30:36,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Indian, Fast food",100-250,Food Quality,Sometimes,Rarely,No major problems,4
+02/10/2026 15:30:36,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Fast food, Chinese",100-250,Food Quality,Sometimes,Rarely,Packaging issues,5
+02/10/2026 15:30:36,18-21,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,Chinese,251-500,"Price, Ratings & reviews",Occasionally,Always,Incorrect/missing items,2
+02/10/2026 15:30:36,27-31,Rarely (1–2 times a month),Zomato,Variety of food,Fast food,501-750,"Price, Delivery time",Sometimes,Often,No major problems,5
+02/10/2026 15:30:36,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,Fast food,251-500,"Food Quality, Delivery time",Sometimes,Always,No major problems,4
+02/10/2026 15:30:37,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Indian, Chinese, Fast food",751-100,Price,Sometimes,Always,Poor food quality,1
+02/10/2026 15:30:37,Above 31,Rarely (1–2 times a month),Toing,Convenience/Saves time,"Chinese, Fast food",100-250,"Delivery time, Food Quality",Occasionally,Always,No major problems,5
+02/10/2026 15:30:37,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Fast food, Indian",100-250,"Price, Ratings & reviews",Occasionally,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:30:37,18-21,Very frequently (3+ times a week),Swiggy,Discounts/Offers,"Fast food, Chinese",251-500,"Price, Food Quality",Always,Rarely,No major problems,4
+02/10/2026 15:30:37,22-26,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"South Indian, Indian, Fast food",251-500,"Food Quality, Restaurant variety",Sometimes,Rarely,Poor food quality,3
+02/10/2026 15:30:37,27-31,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,Fast food,251-500,"Food Quality, Price",Always,Sometimes,Poor food quality,3
+02/10/2026 15:30:38,18-21,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"South Indian, Indian",251-500,Food Quality,Always,Always,Incorrect/missing items,2
+02/10/2026 15:30:38,18-21,Frequently (1–2 times a week),Toing,Variety of food,"Chinese, Fast food, Indian",100-250,Food Quality,Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:30:38,18-21,Very frequently (3+ times a week),Swiggy,Convenience/Saves time,Fast food,501-750,"Price, Delivery time",Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:38,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Indian, South Indian",251-500,"Delivery time, Food Quality",Sometimes,Often,No major problems,5
+02/10/2026 15:30:39,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,Fast food,251-500,"Ratings & reviews, Food Quality",Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:39,18-21,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"Fast food, Chinese, South Indian",Below 100,"Restaurant variety, Food Quality",Occasionally,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:38,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Variety of food,"Indian, Fast food",501-750,"Food Quality, Restaurant variety",Rarely,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:30:38,18-21,Occasionally (3–4 times a month),Toing,Variety of food,"Fast food, Indian, South Indian",251-500,Ratings & reviews,Rarely,Always,Poor food quality,3
+02/10/2026 15:30:39,27-31,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,Fast food,251-500,Ratings & reviews,Occasionally,Always,Late delivery/Food arrives cold,4
+02/10/2026 15:30:39,18-21,Very frequently (3+ times a week),"Zomato, Swiggy",Convenience/Saves time,"South Indian, Chinese, Fast food",251-500,Delivery time,Rarely,Always,Packaging issues,5
+02/10/2026 15:30:39,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Indian,501-750,Delivery time,Sometimes,Sometimes,Packaging issues,4
+02/10/2026 15:30:39,22-26,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"Fast food, Indian",More than 100,"Delivery time, Restaurant variety",Always,Sometimes,Packaging issues,4
+02/10/2026 15:30:39,18-21,Never,Swiggy,Convenience/Saves time,"Chinese, South Indian, Fast food",251-500,Delivery time,Occasionally,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:30:40,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Fast food,100-250,"Food Quality, Ratings & reviews",Sometimes,Rarely,No major problems,5
+02/10/2026 15:30:40,18-21,Never,"Zomato, Swiggy",Convenience/Saves time,"Indian, Fast food, South Indian",251-500,"Price, Delivery time",Sometimes,Sometimes,Poor food quality,3
+02/10/2026 15:30:40,22-26,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,Chinese,More than 100,"Price, Food Quality",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:40,18-21,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"Fast food, Chinese, South Indian",251-500,"Food Quality, Ratings & reviews",Occasionally,Sometimes,No major problems,5
+02/10/2026 15:30:40,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Indian, Fast food, South Indian",100-250,Food Quality,Rarely,Sometimes,Poor food quality,2
+02/10/2026 15:30:41,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Chinese,251-500,"Delivery time, Food Quality",Rarely,Sometimes,No major problems,3
+02/10/2026 15:30:41,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"South Indian, Chinese",501-750,"Delivery time, Food Quality",Rarely,Often,Incorrect/missing items,4
+02/10/2026 15:30:41,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Fast food,100-250,Ratings & reviews,Sometimes,Always,Poor food quality,4
+02/10/2026 15:30:41,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Fast food,100-250,Ratings & reviews,Always,Often,No major problems,5
+02/10/2026 15:30:41,22-26,Frequently (1–2 times a week),Swiggy,Don't want to cook,"Chinese, Fast food, Indian",501-750,"Food Quality, Price",Sometimes,Rarely,Poor food quality,2
+02/10/2026 15:30:42,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,South Indian,100-250,Price,Always,Often,Packaging issues,3
+02/10/2026 15:30:42,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Fast food, South Indian",251-500,"Delivery time, Food Quality",Sometimes,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:30:42,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Chinese, Indian",251-500,Price,Occasionally,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:30:42,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Indian, Fast food",100-250,"Ratings & reviews, Price",Occasionally,Often,Incorrect/missing items,2
+02/10/2026 15:30:42,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Don't want to cook,"Fast food, South Indian, Indian",251-500,"Delivery time, Price",Sometimes,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:30:43,18-21,Occasionally (3–4 times a month),Zomato,Variety of food,"Fast food, Chinese",100-250,"Ratings & reviews, Food Quality",Sometimes,Always,Poor food quality,3
+02/10/2026 15:30:43,18-21,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"Chinese, South Indian, Fast food",251-500,Price,Sometimes,Often,Poor food quality,2
+02/10/2026 15:30:43,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,Fast food,251-500,Food Quality,Sometimes,Never,Packaging issues,4
+02/10/2026 15:30:43,22-26,Rarely (1–2 times a month),Swiggy,Variety of food,"Fast food, Indian",251-500,Food Quality,Occasionally,Often,Packaging issues,4
+02/10/2026 15:30:43,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Chinese,100-250,Food Quality,Sometimes,Sometimes,No major problems,5
+02/10/2026 15:30:43,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Indian,251-500,Price,Sometimes,Never,No major problems,5
+02/10/2026 15:30:44,27-31,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"South Indian, Fast food",251-500,Food Quality,Always,Often,No major problems,3
+02/10/2026 15:30:44,18-21,Very frequently (3+ times a week),Zomato,Convenience/Saves time,Fast food,501-750,"Delivery time, Price",Never,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:30:44,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,Fast food,Below 100,Food Quality,Rarely,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:43,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Fast food, Indian, Chinese",251-500,Delivery time,Rarely,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:30:44,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,South Indian,100-250,"Ratings & reviews, Food Quality",Always,Rarely,No major problems,3
+02/10/2026 15:30:44,18-21,Never,Zomato,Discounts/Offers,"South Indian, Indian",100-250,Ratings & reviews,Occasionally,Often,No major problems,4
+02/10/2026 15:30:45,18-21,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Chinese, South Indian",251-500,Delivery time,Occasionally,Often,Poor food quality,2
+02/10/2026 15:30:45,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Indian, Chinese, Fast food",100-250,"Food Quality, Delivery time",Occasionally,Sometimes,Incorrect/missing items,4
+02/10/2026 15:30:45,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Indian,100-250,Ratings & reviews,Rarely,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:46,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,Fast food,251-500,"Price, Food Quality",Never,Sometimes,No major problems,5
+02/10/2026 15:30:46,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,Chinese,100-250,Restaurant variety,Sometimes,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:30:46,18-21,Rarely (1–2 times a month),Zomato,Don't want to cook,"Fast food, Chinese, Indian",100-250,"Food Quality, Delivery time",Rarely,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:30:46,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Indian,100-250,Ratings & reviews,Occasionally,Sometimes,Incorrect/missing items,3
+02/10/2026 15:30:46,18-21,Very frequently (3+ times a week),"Zomato, Swiggy",Discounts/Offers,"Indian, Fast food, Chinese",251-500,Price,Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:47,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Indian, Chinese, Fast food",100-250,"Food Quality, Price",Occasionally,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:30:47,27-31,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Fast food, Indian, Chinese",251-500,"Price, Food Quality",Occasionally,Never,Late delivery/Food arrives cold,2
+02/10/2026 15:30:47,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Fast food, South Indian",501-750,"Price, Ratings & reviews",Sometimes,Rarely,No major problems,4
+02/10/2026 15:30:47,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"South Indian, Chinese",501-750,"Price, Delivery time",Sometimes,Rarely,Packaging issues,3
+02/10/2026 15:30:47,22-26,Frequently (1–2 times a week),Zomato,Discounts/Offers,Fast food,100-250,"Food Quality, Ratings & reviews",Sometimes,Often,No major problems,4
+02/10/2026 15:30:47,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Chinese",251-500,Price,Always,Often,Poor food quality,2
+02/10/2026 15:30:47,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"Fast food, Indian, Chinese",501-750,"Delivery time, Restaurant variety",Never,Sometimes,No major problems,4
+02/10/2026 15:30:48,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,Indian,251-500,Restaurant variety,Always,Rarely,No major problems,4
+02/10/2026 15:30:48,22-26,Rarely (1–2 times a month),Zomato,Don't want to cook,"Chinese, Indian, Fast food",100-250,"Delivery time, Food Quality",Rarely,Often,Poor food quality,3
+02/10/2026 15:30:48,Below 18,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,"Indian, South Indian",251-500,Food Quality,Sometimes,Always,Incorrect/missing items,2
+02/10/2026 15:30:48,18-21,Very frequently (3+ times a week),Zomato,Convenience/Saves time,"Chinese, Fast food",100-250,"Food Quality, Ratings & reviews",Sometimes,Never,Late delivery/Food arrives cold,3
+02/10/2026 15:30:49,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Chinese, South Indian",251-500,Food Quality,Occasionally,Often,Packaging issues,3
+02/10/2026 15:30:49,18-21,Frequently (1–2 times a week),Toing,Convenience/Saves time,"Fast food, Indian, Chinese",251-500,"Ratings & reviews, Food Quality",Sometimes,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:30:49,18-21,Frequently (1–2 times a week),Toing,Convenience/Saves time,"South Indian, Fast food",751-100,Delivery time,Sometimes,Sometimes,Incorrect/missing items,3
+02/10/2026 15:30:49,22-26,Frequently (1–2 times a week),Toing,Convenience/Saves time,South Indian,251-500,"Delivery time, Food Quality",Always,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:30:49,18-21,Never,Swiggy,Discounts/Offers,"Indian, South Indian",Below 100,"Price, Food Quality",Occasionally,Sometimes,No major problems,4
+02/10/2026 15:30:49,Above 31,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Indian, Chinese",251-500,Food Quality,Sometimes,Rarely,Incorrect/missing items,4
+02/10/2026 15:30:50,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,Fast food,251-500,"Restaurant variety, Delivery time",Sometimes,Rarely,No major problems,5
+02/10/2026 15:30:50,22-26,Frequently (1–2 times a week),Swiggy,Discounts/Offers,Indian,251-500,Ratings & reviews,Occasionally,Never,No major problems,4
+02/10/2026 15:30:50,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Fast food,Below 100,Price,Rarely,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:30:50,22-26,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Fast food, Indian",501-750,Price,Rarely,Sometimes,Packaging issues,3
+02/10/2026 15:30:50,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,Fast food,251-500,"Food Quality, Price",Rarely,Never,Poor food quality,1
+02/10/2026 15:30:50,Above 31,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Chinese, South Indian",251-500,Delivery time,Sometimes,Often,Incorrect/missing items,3
+02/10/2026 15:30:51,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Chinese",100-250,Food Quality,Occasionally,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:30:51,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Indian, Fast food",501-750,Price,Occasionally,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:30:51,Above 31,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Indian, Chinese",100-250,Price,Always,Often,Poor food quality,2
+02/10/2026 15:30:51,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,Fast food,100-250,"Food Quality, Delivery time",Always,Often,Incorrect/missing items,2
+02/10/2026 15:30:51,22-26,Frequently (1–2 times a week),Swiggy,Don't want to cook,"Fast food, Indian",251-500,Food Quality,Sometimes,Always,No major problems,5
+02/10/2026 15:30:51,18-21,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"Fast food, Indian",251-500,"Food Quality, Price",Sometimes,Sometimes,Poor food quality,4
+02/10/2026 15:30:51,Below 18,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"Indian, Fast food, Chinese",251-500,"Price, Delivery time",Rarely,Rarely,No major problems,4
+02/10/2026 15:30:52,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Fast food, Indian",100-250,"Restaurant variety, Delivery time",Rarely,Rarely,No major problems,4
+02/10/2026 15:30:52,Above 31,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,Chinese,More than 100,"Ratings & reviews, Restaurant variety",Occasionally,Often,Late delivery/Food arrives cold,1
+02/10/2026 15:30:52,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"South Indian, Indian",100-250,"Delivery time, Ratings & reviews",Occasionally,Often,Incorrect/missing items,3
+02/10/2026 15:30:52,22-26,Frequently (1–2 times a week),Zomato,Don't want to cook,"Indian, Fast food, South Indian",751-100,Price,Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:52,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,Fast food,251-500,"Ratings & reviews, Food Quality",Sometimes,Often,Poor food quality,2
+02/10/2026 15:30:53,22-26,Very frequently (3+ times a week),Swiggy,Variety of food,"Fast food, Indian",501-750,"Food Quality, Price",Always,Often,No major problems,5
+02/10/2026 15:30:53,27-31,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,Fast food,501-750,"Ratings & reviews, Price",Never,Often,Incorrect/missing items,2
+02/10/2026 15:30:53,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Fast food, Chinese",251-500,Price,Sometimes,Always,Incorrect/missing items,1
+02/10/2026 15:30:53,Below 18,Very frequently (3+ times a week),Swiggy,Convenience/Saves time,"Fast food, Indian",251-500,"Food Quality, Ratings & reviews",Occasionally,Sometimes,Incorrect/missing items,3
+02/10/2026 15:30:53,Above 31,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,Fast food,251-500,Price,Occasionally,Often,No major problems,4
+02/10/2026 15:30:53,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"South Indian, Chinese",100-250,Food Quality,Sometimes,Rarely,No major problems,5
+02/10/2026 15:30:53,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Chinese, Fast food",251-500,"Delivery time, Restaurant variety",Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:30:53,27-31,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,South Indian,251-500,"Price, Food Quality",Always,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:30:54,18-21,Rarely (1–2 times a month),Swiggy,Don't want to cook,South Indian,251-500,"Food Quality, Price",Occasionally,Often,No major problems,4
+02/10/2026 15:30:54,27-31,Rarely (1–2 times a month),Swiggy,Variety of food,Indian,251-500,Restaurant variety,Always,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:54,18-21,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Indian, South Indian, Fast food",100-250,Ratings & reviews,Occasionally,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:30:54,18-21,Occasionally (3–4 times a month),Swiggy,Variety of food,"South Indian, Chinese",100-250,"Food Quality, Price",Rarely,Rarely,No major problems,3
+02/10/2026 15:30:54,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Chinese, South Indian, Indian",251-500,"Delivery time, Price",Occasionally,Sometimes,Packaging issues,3
+02/10/2026 15:30:54,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Variety of food,Chinese,100-250,"Food Quality, Price",Occasionally,Sometimes,Packaging issues,3
+02/10/2026 15:30:54,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,"Indian, Fast food",100-250,"Ratings & reviews, Food Quality",Sometimes,Never,Poor food quality,3
+02/10/2026 15:30:55,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Fast food, South Indian",251-500,Food Quality,Occasionally,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:55,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Indian, Fast food",251-500,"Food Quality, Price",Sometimes,Sometimes,Poor food quality,2
+02/10/2026 15:30:55,27-31,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Chinese, Indian",501-750,Ratings & reviews,Occasionally,Sometimes,Poor food quality,4
+02/10/2026 15:30:55,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"Chinese, Indian, Fast food",251-500,Food Quality,Sometimes,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:55,22-26,Occasionally (3–4 times a month),Swiggy,Don't want to cook,Indian,251-500,Food Quality,Always,Sometimes,No major problems,4
+02/10/2026 15:30:55,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Indian, Fast food, South Indian",251-500,"Price, Delivery time",Occasionally,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:30:56,Above 31,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Indian, South Indian",251-500,"Food Quality, Delivery time",Sometimes,Often,No major problems,2
+02/10/2026 15:30:56,18-21,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,Indian,100-250,"Restaurant variety, Food Quality",Sometimes,Sometimes,No major problems,4
+02/10/2026 15:30:56,22-26,Frequently (1–2 times a week),Zomato,Don't want to cook,"Fast food, Indian",251-500,Delivery time,Occasionally,Often,Poor food quality,3
+02/10/2026 15:30:56,18-21,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,"Fast food, South Indian, Indian",100-250,"Price, Ratings & reviews",Occasionally,Often,Poor food quality,4
+02/10/2026 15:30:57,Above 31,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Chinese, Indian, South Indian",100-250,"Food Quality, Restaurant variety",Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:57,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Chinese, Indian",100-250,Food Quality,Always,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:30:57,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Fast food,501-750,Delivery time,Occasionally,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:30:57,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"South Indian, Chinese",251-500,"Food Quality, Delivery time",Sometimes,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:30:57,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Indian, Fast food",100-250,"Delivery time, Price",Rarely,Sometimes,Poor food quality,4
+02/10/2026 15:30:58,22-26,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"South Indian, Fast food",100-250,"Food Quality, Price",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:30:58,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Chinese",100-250,"Ratings & reviews, Delivery time",Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:30:58,22-26,Rarely (1–2 times a month),Toing,Discounts/Offers,Fast food,501-750,Food Quality,Occasionally,Sometimes,Packaging issues,3
+02/10/2026 15:30:58,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Chinese, Indian, South Indian",100-250,"Food Quality, Price",Sometimes,Often,Incorrect/missing items,1
+02/10/2026 15:30:58,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Indian, Fast food",751-100,"Price, Delivery time",Occasionally,Sometimes,Poor food quality,2
+02/10/2026 15:30:58,22-26,Occasionally (3–4 times a month),Zomato,Don't want to cook,"Fast food, Indian, South Indian",100-250,"Food Quality, Ratings & reviews",Sometimes,Sometimes,Packaging issues,3
+02/10/2026 15:30:59,18-21,Frequently (1–2 times a week),Zomato,Variety of food,Fast food,100-250,Price,Occasionally,Often,No major problems,5
+02/10/2026 15:30:59,27-31,Very frequently (3+ times a week),"Zomato, Swiggy",Discounts/Offers,South Indian,100-250,"Price, Food Quality",Sometimes,Often,Incorrect/missing items,4
+02/10/2026 15:30:59,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Fast food, Chinese, Indian",751-100,Delivery time,Sometimes,Rarely,Poor food quality,2
+02/10/2026 15:30:59,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Fast food, Indian",251-500,Price,Sometimes,Always,Packaging issues,5
+02/10/2026 15:30:59,18-21,Rarely (1–2 times a month),Toing,Discounts/Offers,"Fast food, South Indian",251-500,Delivery time,Sometimes,Often,No major problems,4
+02/10/2026 15:30:59,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,"Indian, South Indian",100-250,Delivery time,Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:30:59,27-31,Frequently (1–2 times a week),Swiggy,Discounts/Offers,Chinese,100-250,Food Quality,Occasionally,Never,Packaging issues,3
+02/10/2026 15:30:59,22-26,Rarely (1–2 times a month),Zomato,Don't want to cook,Indian,251-500,"Ratings & reviews, Price",Sometimes,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:31:00,18-21,Occasionally (3–4 times a month),Swiggy,Variety of food,South Indian,100-250,Food Quality,Always,Often,Poor food quality,2
+02/10/2026 15:31:00,22-26,Never,"Zomato, Swiggy",Convenience/Saves time,"Indian, Fast food",100-250,Price,Sometimes,Often,No major problems,1
+02/10/2026 15:31:00,Below 18,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Fast food, Indian, South Indian",751-100,"Price, Delivery time",Occasionally,Often,Packaging issues,3
+02/10/2026 15:31:00,Below 18,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Chinese,100-250,Food Quality,Sometimes,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:31:00,27-31,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,Fast food,501-750,"Food Quality, Ratings & reviews",Occasionally,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:31:00,18-21,Very frequently (3+ times a week),Swiggy,Variety of food,"South Indian, Indian, Chinese",251-500,Delivery time,Rarely,Rarely,No major problems,3
+02/10/2026 15:31:01,18-21,Rarely (1–2 times a month),Toing,Don't want to cook,"Fast food, Indian, Chinese",100-250,"Ratings & reviews, Food Quality",Sometimes,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:31:01,22-26,Rarely (1–2 times a month),Zomato,Don't want to cook,"Chinese, South Indian",100-250,"Restaurant variety, Food Quality",Never,Sometimes,Late delivery/Food arrives cold,5
+02/10/2026 15:31:01,27-31,Rarely (1–2 times a month),"Zomato, Swiggy",Don't want to cook,"Fast food, Indian, Chinese",251-500,Food Quality,Sometimes,Never,Late delivery/Food arrives cold,3
+02/10/2026 15:31:01,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Chinese, Indian",Below 100,"Food Quality, Delivery time",Occasionally,Always,Late delivery/Food arrives cold,4
+02/10/2026 15:31:01,18-21,Very frequently (3+ times a week),Zomato,Don't want to cook,Indian,251-500,"Price, Food Quality",Rarely,Always,No major problems,5
+02/10/2026 15:31:01,18-21,Very frequently (3+ times a week),"Zomato, Swiggy",Convenience/Saves time,"Fast food, Indian",501-750,"Ratings & reviews, Food Quality",Sometimes,Always,Poor food quality,4
+02/10/2026 15:31:02,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,Chinese,100-250,"Price, Ratings & reviews",Sometimes,Always,Poor food quality,2
+02/10/2026 15:31:02,27-31,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Indian, Fast food",251-500,"Food Quality, Restaurant variety",Rarely,Sometimes,No major problems,5
+02/10/2026 15:31:02,18-21,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"South Indian, Fast food, Chinese",251-500,Delivery time,Occasionally,Often,Packaging issues,4
+02/10/2026 15:31:02,27-31,Rarely (1–2 times a month),Zomato,Don't want to cook,"Fast food, Chinese, Indian",501-750,"Delivery time, Price",Rarely,Rarely,Packaging issues,4
+02/10/2026 15:31:02,18-21,Occasionally (3–4 times a month),Zomato,Variety of food,"Fast food, Chinese",251-500,"Food Quality, Price",Rarely,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:03,18-21,Rarely (1–2 times a month),Zomato,Don't want to cook,"South Indian, Fast food",251-500,"Food Quality, Price",Occasionally,Sometimes,Packaging issues,3
+02/10/2026 15:31:03,22-26,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,Fast food,100-250,"Food Quality, Delivery time",Never,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:03,22-26,Frequently (1–2 times a week),"Zomato, Swiggy",Don't want to cook,"Fast food, Chinese",100-250,Food Quality,Sometimes,Often,Poor food quality,2
+02/10/2026 15:31:03,18-21,Frequently (1–2 times a week),Swiggy,Don't want to cook,Fast food,100-250,"Price, Delivery time",Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:31:03,Below 18,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Indian, Chinese",251-500,"Food Quality, Price",Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:03,18-21,Occasionally (3–4 times a month),Zomato,Don't want to cook,Chinese,251-500,Ratings & reviews,Occasionally,Never,Late delivery/Food arrives cold,4
+02/10/2026 15:31:04,18-21,Occasionally (3–4 times a month),Swiggy,Variety of food,"Indian, Fast food",100-250,"Food Quality, Ratings & reviews",Sometimes,Sometimes,No major problems,4
+02/10/2026 15:31:04,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, South Indian",100-250,Price,Always,Often,Packaging issues,3
+02/10/2026 15:31:04,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Chinese",501-750,"Food Quality, Price",Sometimes,Sometimes,Incorrect/missing items,2
+02/10/2026 15:31:04,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,"South Indian, Chinese, Indian",251-500,"Delivery time, Food Quality",Occasionally,Often,Poor food quality,2
+02/10/2026 15:31:04,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Fast food, Indian",100-250,Price,Never,Often,No major problems,5
+02/10/2026 15:31:04,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Chinese, Indian",100-250,"Price, Food Quality",Sometimes,Always,Poor food quality,4
+02/10/2026 15:31:04,18-21,Never,Swiggy,Don't want to cook,"Fast food, South Indian",251-500,"Food Quality, Restaurant variety",Occasionally,Often,Packaging issues,3
+02/10/2026 15:31:05,18-21,Occasionally (3–4 times a month),Zomato,Don't want to cook,"Chinese, Indian, Fast food",100-250,Ratings & reviews,Occasionally,Often,Poor food quality,4
+02/10/2026 15:31:05,27-31,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"South Indian, Chinese",100-250,"Price, Delivery time",Sometimes,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:31:05,22-26,Very frequently (3+ times a week),Others,Convenience/Saves time,Fast food,100-250,"Price, Delivery time",Rarely,Never,Poor food quality,3
+02/10/2026 15:31:05,18-21,Very frequently (3+ times a week),Swiggy,Discounts/Offers,Fast food,251-500,Ratings & reviews,Rarely,Never,Packaging issues,4
+02/10/2026 15:31:05,22-26,Occasionally (3–4 times a month),Others,Convenience/Saves time,South Indian,100-250,"Price, Ratings & reviews",Rarely,Always,Poor food quality,3
+02/10/2026 15:31:05,Below 18,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"South Indian, Chinese, Indian",100-250,"Delivery time, Food Quality",Occasionally,Sometimes,Packaging issues,4
+02/10/2026 15:31:06,22-26,Occasionally (3–4 times a month),Zomato,Variety of food,"Indian, Fast food, South Indian",More than 100,Food Quality,Rarely,Often,Poor food quality,3
+02/10/2026 15:31:06,18-21,Very frequently (3+ times a week),Swiggy,Don't want to cook,Indian,251-500,"Price, Food Quality",Always,Sometimes,No major problems,4
+02/10/2026 15:31:06,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,"Fast food, Chinese",100-250,Food Quality,Always,Often,No major problems,2
+02/10/2026 15:31:06,18-21,Frequently (1–2 times a week),Swiggy,Variety of food,Chinese,100-250,Food Quality,Occasionally,Sometimes,No major problems,4
+02/10/2026 15:31:07,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,"Fast food, Indian",251-500,Delivery time,Occasionally,Always,No major problems,3
+02/10/2026 15:31:07,18-21,Frequently (1–2 times a week),Toing,Variety of food,Indian,501-750,"Food Quality, Price",Always,Often,Poor food quality,3
+02/10/2026 15:31:07,22-26,Very frequently (3+ times a week),Zomato,Convenience/Saves time,Indian,501-750,Ratings & reviews,Sometimes,Often,No major problems,2
+02/10/2026 15:31:07,18-21,Very frequently (3+ times a week),Others,Discounts/Offers,"South Indian, Fast food",251-500,"Ratings & reviews, Food Quality",Sometimes,Sometimes,Incorrect/missing items,2
+02/10/2026 15:31:07,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Chinese, Fast food",251-500,"Food Quality, Delivery time",Sometimes,Always,Poor food quality,2
+02/10/2026 15:31:07,18-21,Frequently (1–2 times a week),Zomato,Discounts/Offers,Chinese,100-250,"Price, Ratings & reviews",Sometimes,Rarely,No major problems,4
+02/10/2026 15:31:08,18-21,Occasionally (3–4 times a month),Swiggy,Variety of food,"Chinese, Indian",100-250,Restaurant variety,Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:31:07,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Chinese, Fast food",251-500,"Price, Food Quality",Rarely,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:31:08,18-21,Occasionally (3–4 times a month),Swiggy,Variety of food,Indian,251-500,Delivery time,Sometimes,Often,No major problems,4
+02/10/2026 15:31:08,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Variety of food,South Indian,501-750,"Ratings & reviews, Food Quality",Always,Always,No major problems,4
+02/10/2026 15:31:08,27-31,Frequently (1–2 times a week),Zomato,Discounts/Offers,Indian,More than 100,"Delivery time, Price",Occasionally,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:31:08,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Fast food, Indian",501-750,Food Quality,Never,Rarely,No major problems,4
+02/10/2026 15:31:08,18-21,Very frequently (3+ times a week),Swiggy,Convenience/Saves time,"Fast food, Chinese",100-250,"Ratings & reviews, Food Quality",Rarely,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:09,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Indian, Fast food",251-500,Ratings & reviews,Occasionally,Sometimes,Poor food quality,3
+02/10/2026 15:31:09,22-26,Frequently (1–2 times a week),Zomato,Don't want to cook,Fast food,100-250,"Ratings & reviews, Restaurant variety",Rarely,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:31:09,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,"Fast food, Indian, South Indian",501-750,Ratings & reviews,Occasionally,Rarely,No major problems,5
+02/10/2026 15:31:09,Above 31,Occasionally (3–4 times a month),Zomato,Don't want to cook,"Chinese, South Indian",100-250,"Food Quality, Price",Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:09,22-26,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,"Indian, Chinese, South Indian",251-500,"Price, Delivery time",Rarely,Never,Late delivery/Food arrives cold,5
+02/10/2026 15:31:09,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Chinese, Indian",251-500,"Price, Delivery time",Occasionally,Always,Poor food quality,3
+02/10/2026 15:31:10,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"Indian, South Indian",251-500,"Food Quality, Price",Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:31:10,18-21,Occasionally (3–4 times a month),Swiggy,Don't want to cook,Chinese,251-500,"Food Quality, Price",Occasionally,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:31:10,18-21,Frequently (1–2 times a week),Zomato,Discounts/Offers,"Fast food, South Indian, Indian",251-500,"Food Quality, Delivery time",Never,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:10,27-31,Occasionally (3–4 times a month),Zomato,Variety of food,"Fast food, Indian",251-500,Food Quality,Sometimes,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:31:10,18-21,Rarely (1–2 times a month),Swiggy,Variety of food,"South Indian, Fast food, Indian",100-250,"Ratings & reviews, Food Quality",Never,Always,Incorrect/missing items,2
+02/10/2026 15:31:11,22-26,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,"Fast food, Chinese",100-250,"Food Quality, Price",Always,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:31:11,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Don't want to cook,"Fast food, South Indian",251-500,"Food Quality, Price",Sometimes,Never,No major problems,5
+02/10/2026 15:31:11,Below 18,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,Indian,251-500,"Price, Delivery time",Always,Rarely,Poor food quality,2
+02/10/2026 15:31:11,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Indian",Below 100,Food Quality,Always,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:31:11,Above 31,Very frequently (3+ times a week),Toing,Convenience/Saves time,"Indian, Chinese",100-250,Food Quality,Sometimes,Rarely,Packaging issues,4
+02/10/2026 15:31:12,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Indian, Chinese",251-500,Delivery time,Occasionally,Rarely,Late delivery/Food arrives cold,2
+02/10/2026 15:31:12,Above 31,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Fast food,100-250,"Price, Delivery time",Rarely,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:31:12,22-26,Rarely (1–2 times a month),Zomato,Variety of food,Indian,100-250,"Food Quality, Price",Sometimes,Sometimes,No major problems,5
+02/10/2026 15:31:12,18-21,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,"Fast food, Chinese, Indian",501-750,Delivery time,Sometimes,Often,Poor food quality,3
+02/10/2026 15:31:13,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Indian",251-500,"Price, Food Quality",Always,Always,No major problems,4
+02/10/2026 15:31:13,Above 31,Frequently (1–2 times a week),Others,Variety of food,"Chinese, Fast food",251-500,Ratings & reviews,Never,Often,Late delivery/Food arrives cold,1
+02/10/2026 15:31:13,22-26,Very frequently (3+ times a week),Swiggy,Convenience/Saves time,"Indian, South Indian, Chinese",501-750,Price,Never,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:31:13,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Chinese, South Indian",251-500,"Food Quality, Delivery time",Always,Sometimes,Incorrect/missing items,3
+02/10/2026 15:31:13,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Fast food, South Indian, Chinese",More than 100,"Restaurant variety, Price",Always,Sometimes,Packaging issues,4
+02/10/2026 15:31:13,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Chinese, Fast food, Indian",100-250,Price,Always,Sometimes,Packaging issues,3
+02/10/2026 15:31:14,27-31,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"Fast food, Indian",Below 100,Price,Always,Often,Poor food quality,2
+02/10/2026 15:31:14,18-21,Frequently (1–2 times a week),Swiggy,Variety of food,Fast food,251-500,Food Quality,Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:31:14,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Fast food, Indian",251-500,"Delivery time, Food Quality",Sometimes,Rarely,No major problems,5
+02/10/2026 15:31:15,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,Indian,100-250,Price,Rarely,Often,Packaging issues,3
+02/10/2026 15:31:15,22-26,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,"Fast food, Chinese",251-500,"Food Quality, Ratings & reviews",Always,Often,Poor food quality,1
+02/10/2026 15:31:15,22-26,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"Chinese, Fast food, Indian",100-250,"Food Quality, Restaurant variety",Rarely,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:31:15,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Indian, Fast food",100-250,"Food Quality, Ratings & reviews",Occasionally,Rarely,No major problems,3
+02/10/2026 15:31:15,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Chinese, Fast food",251-500,"Ratings & reviews, Price",Occasionally,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:31:15,22-26,Very frequently (3+ times a week),"Zomato, Swiggy",Convenience/Saves time,Chinese,251-500,"Delivery time, Ratings & reviews",Rarely,Rarely,Poor food quality,2
+02/10/2026 15:31:16,22-26,Rarely (1–2 times a month),Swiggy,Variety of food,Chinese,100-250,Price,Always,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:31:16,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"South Indian, Chinese, Indian",501-750,Food Quality,Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:31:16,18-21,Never,Zomato,Don't want to cook,"Fast food, Indian",100-250,Food Quality,Occasionally,Often,No major problems,5
+02/10/2026 15:31:16,18-21,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,Fast food,100-250,"Food Quality, Restaurant variety",Always,Rarely,No major problems,3
+02/10/2026 15:31:16,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Variety of food,Indian,251-500,"Price, Food Quality",Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:17,22-26,Occasionally (3–4 times a month),Others,Convenience/Saves time,"Indian, Fast food, Chinese",Below 100,Food Quality,Occasionally,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:31:17,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Indian,100-250,Food Quality,Rarely,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:31:17,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Variety of food,Fast food,251-500,"Food Quality, Price",Always,Often,No major problems,4
+02/10/2026 15:31:16,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"South Indian, Fast food",100-250,"Price, Delivery time",Rarely,Always,Incorrect/missing items,3
+02/10/2026 15:31:17,18-21,Occasionally (3–4 times a month),Swiggy,Discounts/Offers,Indian,251-500,"Price, Food Quality",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:17,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,Fast food,More than 100,"Price, Food Quality",Occasionally,Always,No major problems,5
+02/10/2026 15:31:17,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Indian, South Indian",251-500,"Food Quality, Delivery time",Sometimes,Rarely,No major problems,4
+02/10/2026 15:31:18,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Chinese, Indian",100-250,"Food Quality, Price",Rarely,Never,No major problems,4
+02/10/2026 15:31:18,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"South Indian, Indian",100-250,Delivery time,Occasionally,Often,No major problems,4
+02/10/2026 15:31:18,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"Chinese, South Indian",251-500,"Food Quality, Price",Sometimes,Often,No major problems,4
+02/10/2026 15:31:18,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,South Indian,251-500,"Food Quality, Ratings & reviews",Always,Sometimes,Incorrect/missing items,2
+02/10/2026 15:31:18,22-26,Very frequently (3+ times a week),"Zomato, Swiggy",Variety of food,Chinese,100-250,Price,Sometimes,Rarely,Late delivery/Food arrives cold,1
+02/10/2026 15:31:18,18-21,Occasionally (3–4 times a month),Swiggy,Don't want to cook,Fast food,251-500,Delivery time,Sometimes,Never,Packaging issues,4
+02/10/2026 15:31:18,27-31,Rarely (1–2 times a month),Swiggy,Discounts/Offers,South Indian,251-500,"Price, Ratings & reviews",Occasionally,Always,Poor food quality,2
+02/10/2026 15:31:19,22-26,Occasionally (3–4 times a month),Toing,Convenience/Saves time,"South Indian, Chinese, Fast food",100-250,Food Quality,Always,Often,No major problems,4
+02/10/2026 15:31:19,27-31,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,South Indian,251-500,"Food Quality, Delivery time",Always,Sometimes,Poor food quality,3
+02/10/2026 15:31:19,18-21,Frequently (1–2 times a week),Others,Don't want to cook,"South Indian, Chinese",100-250,"Food Quality, Price",Occasionally,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:31:19,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Indian",100-250,Food Quality,Always,Often,Incorrect/missing items,2
+02/10/2026 15:31:19,22-26,Occasionally (3–4 times a month),Zomato,Variety of food,Chinese,251-500,Restaurant variety,Occasionally,Often,Packaging issues,3
+02/10/2026 15:31:19,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Chinese, Fast food",251-500,"Price, Delivery time",Sometimes,Always,Incorrect/missing items,2
+02/10/2026 15:31:20,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,Indian,251-500,Price,Occasionally,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:31:20,27-31,Frequently (1–2 times a week),Zomato,Convenience/Saves time,South Indian,100-250,"Price, Food Quality",Never,Rarely,Packaging issues,4
+02/10/2026 15:31:20,18-21,Very frequently (3+ times a week),Toing,Variety of food,Indian,251-500,Price,Sometimes,Sometimes,No major problems,5
+02/10/2026 15:31:20,22-26,Frequently (1–2 times a week),Swiggy,Discounts/Offers,Fast food,100-250,Delivery time,Always,Never,Late delivery/Food arrives cold,3
+02/10/2026 15:31:20,Below 18,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Fast food,100-250,"Restaurant variety, Food Quality",Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:21,18-21,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,Indian,100-250,"Food Quality, Delivery time",Sometimes,Always,No major problems,4
+02/10/2026 15:31:21,22-26,Rarely (1–2 times a month),Zomato,Variety of food,Indian,251-500,Food Quality,Always,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:31:21,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Indian",100-250,"Food Quality, Delivery time",Sometimes,Sometimes,Poor food quality,3
+02/10/2026 15:31:21,18-21,Rarely (1–2 times a month),Others,Discounts/Offers,"Fast food, Indian",100-250,Ratings & reviews,Rarely,Always,No major problems,4
+02/10/2026 15:31:21,22-26,Rarely (1–2 times a month),Others,Discounts/Offers,South Indian,251-500,Food Quality,Sometimes,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:31:21,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Fast food,100-250,Delivery time,Rarely,Always,No major problems,5
+02/10/2026 15:31:22,Above 31,Occasionally (3–4 times a month),Swiggy,Don't want to cook,"Indian, Chinese",100-250,"Price, Food Quality",Rarely,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:31:22,18-21,Very frequently (3+ times a week),Zomato,Convenience/Saves time,Indian,251-500,"Price, Food Quality",Rarely,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:31:22,18-21,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"Fast food, Chinese, Indian",251-500,Price,Occasionally,Sometimes,Packaging issues,3
+02/10/2026 15:31:22,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,Chinese,100-250,"Ratings & reviews, Price",Occasionally,Often,No major problems,4
+02/10/2026 15:31:22,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,Fast food,100-250,Delivery time,Rarely,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:31:22,22-26,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,Indian,251-500,Delivery time,Never,Rarely,Packaging issues,4
+02/10/2026 15:31:22,22-26,Rarely (1–2 times a month),Swiggy,Don't want to cook,Chinese,251-500,"Food Quality, Delivery time",Occasionally,Rarely,Packaging issues,3
+02/10/2026 15:31:22,Above 31,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"South Indian, Fast food, Indian",100-250,"Ratings & reviews, Food Quality",Sometimes,Sometimes,Poor food quality,2
+02/10/2026 15:31:22,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Indian",501-750,"Food Quality, Price",Always,Always,No major problems,4
+02/10/2026 15:31:23,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,Chinese,251-500,"Food Quality, Price",Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:23,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Chinese",100-250,Price,Always,Often,Packaging issues,4
+02/10/2026 15:31:23,18-21,Occasionally (3–4 times a month),Zomato,Don't want to cook,Chinese,501-750,"Food Quality, Price",Sometimes,Sometimes,Packaging issues,4
+02/10/2026 15:31:23,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Indian",501-750,Food Quality,Sometimes,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:31:23,18-21,Rarely (1–2 times a month),Zomato,Variety of food,"Fast food, Indian",251-500,"Ratings & reviews, Food Quality",Never,Sometimes,Poor food quality,1
+02/10/2026 15:31:24,22-26,Frequently (1–2 times a week),Zomato,Discounts/Offers,Fast food,100-250,"Price, Ratings & reviews",Always,Sometimes,No major problems,4
+02/10/2026 15:31:24,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,"Fast food, Indian",501-750,"Price, Food Quality",Never,Often,Poor food quality,4
+02/10/2026 15:31:24,22-26,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,Indian,251-500,"Food Quality, Price",Sometimes,Sometimes,No major problems,5
+02/10/2026 15:31:24,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"South Indian, Chinese, Fast food",251-500,"Delivery time, Price",Sometimes,Always,No major problems,5
+02/10/2026 15:31:24,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Chinese",251-500,"Restaurant variety, Price",Always,Never,No major problems,5
+02/10/2026 15:31:24,22-26,Rarely (1–2 times a month),Toing,Discounts/Offers,"Indian, Fast food",751-100,Ratings & reviews,Occasionally,Often,Poor food quality,5
+02/10/2026 15:31:25,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, South Indian, Indian",251-500,Food Quality,Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:25,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,Fast food,501-750,"Delivery time, Food Quality",Rarely,Sometimes,No major problems,4
+02/10/2026 15:31:25,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Indian",100-250,Price,Occasionally,Always,Packaging issues,3
+02/10/2026 15:31:25,18-21,Frequently (1–2 times a week),Others,Variety of food,"Indian, Fast food",251-500,Delivery time,Always,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:31:25,22-26,Occasionally (3–4 times a month),Swiggy,Variety of food,Fast food,251-500,"Delivery time, Restaurant variety",Rarely,Sometimes,Poor food quality,3
+02/10/2026 15:31:25,18-21,Occasionally (3–4 times a month),Toing,Convenience/Saves time,"Fast food, Indian",100-250,"Delivery time, Food Quality",Rarely,Rarely,Late delivery/Food arrives cold,5
+02/10/2026 15:31:26,22-26,Occasionally (3–4 times a month),Toing,Discounts/Offers,South Indian,501-750,"Delivery time, Food Quality",Sometimes,Often,Packaging issues,5
+02/10/2026 15:31:26,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,"Fast food, Indian, Chinese",501-750,"Price, Delivery time",Always,Sometimes,No major problems,4
+02/10/2026 15:31:26,27-31,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"South Indian, Fast food",251-500,"Food Quality, Price",Sometimes,Always,Packaging issues,3
+02/10/2026 15:31:26,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Indian, South Indian",501-750,Price,Occasionally,Sometimes,Late delivery/Food arrives cold,5
+02/10/2026 15:31:26,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Indian, South Indian",100-250,"Price, Food Quality",Always,Always,Late delivery/Food arrives cold,4
+02/10/2026 15:31:27,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Indian, Fast food",100-250,"Food Quality, Restaurant variety",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:27,18-21,Rarely (1–2 times a month),Zomato,Variety of food,Fast food,100-250,"Delivery time, Ratings & reviews",Always,Sometimes,Poor food quality,3
+02/10/2026 15:31:27,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"South Indian, Fast food",100-250,"Food Quality, Price",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:27,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,Indian,100-250,Delivery time,Sometimes,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:31:27,18-21,Rarely (1–2 times a month),Others,Discounts/Offers,Chinese,100-250,"Food Quality, Delivery time",Never,Sometimes,Packaging issues,3
+02/10/2026 15:31:27,27-31,Frequently (1–2 times a week),Others,Convenience/Saves time,"Fast food, Indian",251-500,Delivery time,Rarely,Often,Packaging issues,3
+02/10/2026 15:31:27,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Don't want to cook,Indian,251-500,"Food Quality, Restaurant variety",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:27,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Chinese",100-250,"Restaurant variety, Food Quality",Occasionally,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:31:28,22-26,Occasionally (3–4 times a month),Toing,Convenience/Saves time,"Fast food, Indian",501-750,"Price, Delivery time",Occasionally,Rarely,No major problems,4
+02/10/2026 15:31:28,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,"South Indian, Fast food",100-250,"Delivery time, Food Quality",Sometimes,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:31:28,Above 31,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Chinese, Indian, South Indian",251-500,Food Quality,Sometimes,Often,No major problems,5
+02/10/2026 15:31:29,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Chinese, South Indian",100-250,"Food Quality, Delivery time",Always,Rarely,No major problems,4
+02/10/2026 15:31:29,18-21,Occasionally (3–4 times a month),Zomato,Variety of food,Indian,100-250,"Food Quality, Price",Rarely,Rarely,No major problems,5
+02/10/2026 15:31:29,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,"Fast food, Indian",100-250,"Price, Food Quality",Sometimes,Often,Packaging issues,4
+02/10/2026 15:31:29,18-21,Occasionally (3–4 times a month),Zomato,Variety of food,"Chinese, Indian",100-250,Delivery time,Sometimes,Rarely,Poor food quality,2
+02/10/2026 15:31:29,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Fast food,251-500,"Food Quality, Restaurant variety",Sometimes,Sometimes,Poor food quality,4
+02/10/2026 15:31:29,22-26,Occasionally (3–4 times a month),Zomato,Variety of food,"Fast food, Indian",501-750,"Food Quality, Restaurant variety",Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:31:30,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"South Indian, Indian",251-500,"Food Quality, Price",Occasionally,Sometimes,Packaging issues,3
+02/10/2026 15:31:30,27-31,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Indian, Fast food, South Indian",100-250,"Food Quality, Delivery time",Sometimes,Often,No major problems,3
+02/10/2026 15:31:30,Above 31,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,South Indian,100-250,"Food Quality, Price",Sometimes,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:31:31,18-21,Very frequently (3+ times a week),"Zomato, Swiggy",Convenience/Saves time,"South Indian, Fast food, Indian",501-750,"Ratings & reviews, Food Quality",Occasionally,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:31,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Fast food, Chinese, Indian",251-500,"Food Quality, Price",Sometimes,Always,Incorrect/missing items,3
+02/10/2026 15:31:31,18-21,Very frequently (3+ times a week),Zomato,Convenience/Saves time,"Indian, Fast food",251-500,"Food Quality, Price",Occasionally,Often,Poor food quality,3
+02/10/2026 15:31:31,18-21,Rarely (1–2 times a month),Zomato,Variety of food,"Indian, South Indian",100-250,Delivery time,Sometimes,Often,No major problems,4
+02/10/2026 15:31:31,18-21,Rarely (1–2 times a month),Zomato,Don't want to cook,"Chinese, Fast food",100-250,"Food Quality, Delivery time",Sometimes,Often,No major problems,5
+02/10/2026 15:31:32,18-21,Frequently (1–2 times a week),Others,Convenience/Saves time,"Indian, Fast food",100-250,Food Quality,Sometimes,Often,Packaging issues,1
+02/10/2026 15:31:32,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Fast food, Chinese, Indian",100-250,"Restaurant variety, Ratings & reviews",Sometimes,Sometimes,No major problems,5
+02/10/2026 15:31:32,22-26,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Chinese,501-750,"Price, Food Quality",Rarely,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:31:32,27-31,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Indian, Chinese",251-500,"Delivery time, Food Quality",Occasionally,Always,Poor food quality,2
+02/10/2026 15:31:32,Above 31,Frequently (1–2 times a week),Zomato,Convenience/Saves time,Chinese,251-500,"Food Quality, Price",Sometimes,Always,No major problems,5
+02/10/2026 15:31:32,22-26,Rarely (1–2 times a month),Zomato,Convenience/Saves time,Fast food,100-250,"Food Quality, Price",Sometimes,Often,No major problems,4
+02/10/2026 15:31:32,18-21,Never,Zomato,Convenience/Saves time,Indian,100-250,Food Quality,Occasionally,Sometimes,No major problems,5
+02/10/2026 15:31:33,18-21,Frequently (1–2 times a week),Others,Convenience/Saves time,"Indian, Fast food, Chinese",100-250,"Ratings & reviews, Food Quality",Rarely,Always,Packaging issues,4
+02/10/2026 15:31:33,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"South Indian, Chinese",251-500,"Delivery time, Price",Sometimes,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:31:33,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Fast food, Chinese",100-250,Price,Occasionally,Often,No major problems,4
+02/10/2026 15:31:33,18-21,Frequently (1–2 times a week),Toing,Convenience/Saves time,"Chinese, Fast food",251-500,"Ratings & reviews, Price",Always,Sometimes,Late delivery/Food arrives cold,5
+02/10/2026 15:31:34,22-26,Very frequently (3+ times a week),Zomato,Discounts/Offers,"Indian, Chinese",251-500,"Ratings & reviews, Price",Sometimes,Sometimes,Poor food quality,3
+02/10/2026 15:31:34,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"South Indian, Chinese, Fast food",Below 100,"Food Quality, Restaurant variety",Rarely,Sometimes,Poor food quality,3
+02/10/2026 15:31:34,27-31,Occasionally (3–4 times a month),Swiggy,Variety of food,"South Indian, Fast food",251-500,Delivery time,Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:31:33,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Chinese, Fast food",251-500,"Price, Food Quality",Sometimes,Sometimes,Poor food quality,2
+02/10/2026 15:31:34,22-26,Occasionally (3–4 times a month),"Zomato, Swiggy",Convenience/Saves time,Indian,More than 100,"Price, Ratings & reviews",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:35,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Fast food, Chinese, South Indian",251-500,"Food Quality, Ratings & reviews",Occasionally,Rarely,No major problems,5
+02/10/2026 15:31:35,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Fast food, South Indian",251-500,Ratings & reviews,Sometimes,Sometimes,Poor food quality,3
+02/10/2026 15:31:35,22-26,Occasionally (3–4 times a month),Zomato,Variety of food,Fast food,100-250,"Food Quality, Ratings & reviews",Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:31:35,18-21,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"Indian, Fast food",100-250,"Food Quality, Delivery time",Sometimes,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:31:35,22-26,Never,"Zomato, Swiggy",Variety of food,Indian,100-250,Food Quality,Occasionally,Often,No major problems,5
+02/10/2026 15:31:35,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Indian, Chinese, Fast food",More than 100,Ratings & reviews,Sometimes,Sometimes,Packaging issues,5
+02/10/2026 15:31:35,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Indian, South Indian",100-250,"Food Quality, Ratings & reviews",Occasionally,Often,Late delivery/Food arrives cold,5
+02/10/2026 15:31:36,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Fast food,251-500,"Food Quality, Price",Sometimes,Sometimes,No major problems,4
+02/10/2026 15:31:35,Below 18,Rarely (1–2 times a month),Swiggy,Convenience/Saves time,Indian,100-250,"Food Quality, Delivery time",Occasionally,Always,No major problems,4
+02/10/2026 15:31:36,27-31,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"South Indian, Indian",251-500,"Food Quality, Ratings & reviews",Always,Sometimes,Packaging issues,4
+02/10/2026 15:31:36,18-21,Occasionally (3–4 times a month),Zomato,Variety of food,"Chinese, South Indian",100-250,"Ratings & reviews, Price",Rarely,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:31:36,22-26,Occasionally (3–4 times a month),Zomato,Don't want to cook,"South Indian, Fast food",501-750,Ratings & reviews,Occasionally,Never,No major problems,4
+02/10/2026 15:31:36,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Fast food, Indian",251-500,"Food Quality, Price",Occasionally,Always,Poor food quality,3
+02/10/2026 15:31:37,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Indian, South Indian",251-500,"Delivery time, Price",Occasionally,Sometimes,Packaging issues,4
+02/10/2026 15:31:37,22-26,Occasionally (3–4 times a month),Swiggy,Variety of food,"Chinese, Indian, South Indian",100-250,"Delivery time, Price",Always,Often,Poor food quality,1
+02/10/2026 15:31:37,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Chinese, Indian",100-250,"Ratings & reviews, Price",Rarely,Sometimes,No major problems,4
+02/10/2026 15:31:37,22-26,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"South Indian, Fast food",251-500,Food Quality,Never,Sometimes,No major problems,4
+02/10/2026 15:31:37,18-21,Occasionally (3–4 times a month),Zomato,Don't want to cook,Chinese,100-250,Ratings & reviews,Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:37,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Fast food,501-750,"Food Quality, Delivery time",Occasionally,Often,No major problems,4
+02/10/2026 15:31:37,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"South Indian, Indian",100-250,Price,Always,Often,Late delivery/Food arrives cold,1
+02/10/2026 15:31:38,22-26,Rarely (1–2 times a month),Others,Don't want to cook,"Fast food, South Indian",100-250,Food Quality,Occasionally,Sometimes,Packaging issues,3
+02/10/2026 15:31:38,18-21,Frequently (1–2 times a week),Swiggy,Convenience/Saves time,"Fast food, Indian",751-100,"Price, Ratings & reviews",Sometimes,Sometimes,Late delivery/Food arrives cold,1
+02/10/2026 15:31:38,18-21,Occasionally (3–4 times a month),Zomato,Don't want to cook,"South Indian, Indian, Chinese",251-500,"Price, Food Quality",Occasionally,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:31:38,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Fast food,251-500,Ratings & reviews,Occasionally,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:31:38,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,Chinese,100-250,"Food Quality, Price",Sometimes,Sometimes,Poor food quality,5
+02/10/2026 15:31:38,18-21,Rarely (1–2 times a month),Swiggy,Variety of food,"Chinese, Indian, South Indian",751-100,"Food Quality, Price",Sometimes,Rarely,No major problems,4
+02/10/2026 15:31:38,18-21,Frequently (1–2 times a week),Zomato,Variety of food,"Fast food, Chinese",251-500,"Delivery time, Price",Always,Sometimes,Incorrect/missing items,3
+02/10/2026 15:31:39,18-21,Frequently (1–2 times a week),Zomato,Convenience/Saves time,"Chinese, Fast food, Indian",100-250,"Delivery time, Food Quality",Sometimes,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:31:39,18-21,Rarely (1–2 times a month),Swiggy,Don't want to cook,Indian,251-500,"Food Quality, Price",Sometimes,Often,Poor food quality,3
+02/10/2026 15:31:39,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,South Indian,251-500,Price,Sometimes,Rarely,Incorrect/missing items,3
+02/10/2026 15:31:39,18-21,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"Fast food, South Indian",Below 100,"Delivery time, Food Quality",Never,Rarely,No major problems,4
+02/10/2026 15:31:39,18-21,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"South Indian, Indian",100-250,Delivery time,Sometimes,Often,Packaging issues,4
+02/10/2026 15:31:39,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Indian, Fast food",501-750,Price,Occasionally,Sometimes,No major problems,5
+02/10/2026 15:31:40,18-21,Rarely (1–2 times a month),Others,Don't want to cook,"Indian, Fast food",251-500,"Delivery time, Restaurant variety",Sometimes,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:31:40,22-26,Never,Zomato,Discounts/Offers,Indian,100-250,Restaurant variety,Always,Often,Packaging issues,4
+02/10/2026 15:31:40,22-26,Frequently (1–2 times a week),Toing,Convenience/Saves time,Chinese,More than 100,"Food Quality, Price",Always,Rarely,No major problems,4
+02/10/2026 15:31:40,18-21,Occasionally (3–4 times a month),Others,Variety of food,Fast food,251-500,Delivery time,Occasionally,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:31:41,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Don't want to cook,"Fast food, Chinese",501-750,"Price, Food Quality",Occasionally,Sometimes,Incorrect/missing items,4
+02/10/2026 15:31:41,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Indian, Chinese",100-250,"Ratings & reviews, Delivery time",Always,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:41,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,Indian,251-500,"Food Quality, Price",Occasionally,Often,No major problems,2
+02/10/2026 15:31:41,27-31,Occasionally (3–4 times a month),Toing,Variety of food,Chinese,251-500,"Food Quality, Price",Always,Sometimes,Incorrect/missing items,2
+02/10/2026 15:31:41,22-26,Rarely (1–2 times a month),Swiggy,Don't want to cook,"Fast food, Chinese",251-500,"Restaurant variety, Food Quality",Sometimes,Often,Poor food quality,3
+02/10/2026 15:31:41,18-21,Occasionally (3–4 times a month),Zomato,Variety of food,Indian,100-250,Food Quality,Always,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:31:42,22-26,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,"Fast food, South Indian, Chinese",100-250,"Delivery time, Food Quality",Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:31:42,22-26,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Indian,100-250,Price,Sometimes,Always,Packaging issues,4
+02/10/2026 15:31:42,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,"Indian, Chinese",More than 100,Food Quality,Rarely,Often,Late delivery/Food arrives cold,5
+02/10/2026 15:31:42,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Indian,251-500,"Food Quality, Ratings & reviews",Sometimes,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:31:42,22-26,Rarely (1–2 times a month),Zomato,Variety of food,Fast food,501-750,"Food Quality, Price",Rarely,Never,Late delivery/Food arrives cold,4
+02/10/2026 15:31:42,Below 18,Very frequently (3+ times a week),Swiggy,Don't want to cook,"Fast food, South Indian",100-250,"Food Quality, Ratings & reviews",Sometimes,Never,No major problems,5
+02/10/2026 15:31:43,22-26,Rarely (1–2 times a month),Swiggy,Don't want to cook,Fast food,100-250,"Delivery time, Food Quality",Rarely,Never,No major problems,5
+02/10/2026 15:31:43,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Chinese",100-250,"Ratings & reviews, Food Quality",Occasionally,Rarely,Incorrect/missing items,4
+02/10/2026 15:31:43,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,"Chinese, Fast food",100-250,Delivery time,Sometimes,Always,No major problems,4
+02/10/2026 15:31:43,22-26,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"Indian, Fast food",501-750,"Delivery time, Food Quality",Occasionally,Often,No major problems,4
+02/10/2026 15:31:44,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,Fast food,100-250,"Delivery time, Price",Rarely,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:44,18-21,Occasionally (3–4 times a month),Swiggy,Variety of food,"South Indian, Chinese",100-250,Price,Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:31:44,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,Indian,251-500,Delivery time,Occasionally,Rarely,Poor food quality,2
+02/10/2026 15:31:44,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,Fast food,251-500,Food Quality,Sometimes,Sometimes,Packaging issues,4
+02/10/2026 15:31:44,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,"Chinese, Indian",100-250,Price,Sometimes,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:31:44,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Chinese, Indian",251-500,Price,Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:31:44,22-26,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Fast food, Chinese",100-250,"Delivery time, Price",Sometimes,Often,No major problems,4
+02/10/2026 15:31:45,18-21,Frequently (1–2 times a week),Zomato,Variety of food,Fast food,251-500,"Price, Food Quality",Always,Often,Late delivery/Food arrives cold,4
+02/10/2026 15:31:45,18-21,Rarely (1–2 times a month),Zomato,Variety of food,Indian,100-250,Restaurant variety,Sometimes,Rarely,No major problems,5
+02/10/2026 15:31:45,18-21,Never,Swiggy,Convenience/Saves time,"Fast food, Chinese, Indian",100-250,Delivery time,Occasionally,Often,Poor food quality,2
+02/10/2026 15:31:45,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Chinese",100-250,"Food Quality, Price",Sometimes,Sometimes,Incorrect/missing items,1
+02/10/2026 15:31:46,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Fast food, Indian",501-750,"Food Quality, Price",Rarely,Often,Poor food quality,3
+02/10/2026 15:31:46,27-31,Occasionally (3–4 times a month),Zomato,Don't want to cook,Fast food,100-250,"Price, Delivery time",Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:31:46,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Discounts/Offers,"Chinese, Indian",251-500,"Food Quality, Ratings & reviews",Occasionally,Often,Packaging issues,2
+02/10/2026 15:31:46,18-21,Frequently (1–2 times a week),Swiggy,Variety of food,Fast food,751-100,"Food Quality, Delivery time",Sometimes,Sometimes,Late delivery/Food arrives cold,2
+02/10/2026 15:31:46,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Chinese, Indian",Below 100,"Delivery time, Food Quality",Occasionally,Often,Packaging issues,3
+02/10/2026 15:31:46,27-31,Very frequently (3+ times a week),Zomato,Discounts/Offers,Indian,251-500,"Price, Delivery time",Never,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:31:47,18-21,Occasionally (3–4 times a month),Swiggy,Variety of food,"Chinese, Indian",100-250,"Ratings & reviews, Food Quality",Sometimes,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:31:47,18-21,Frequently (1–2 times a week),Zomato,Discounts/Offers,Fast food,251-500,"Ratings & reviews, Price",Rarely,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:31:47,18-21,Rarely (1–2 times a month),Zomato,Don't want to cook,Indian,251-500,"Price, Delivery time",Sometimes,Sometimes,No major problems,3
+02/10/2026 15:31:47,22-26,Frequently (1–2 times a week),Swiggy,Discounts/Offers,Fast food,501-750,Delivery time,Occasionally,Sometimes,Packaging issues,3
+02/10/2026 15:31:47,22-26,Frequently (1–2 times a week),Zomato,Variety of food,"Fast food, South Indian",100-250,"Restaurant variety, Delivery time",Occasionally,Rarely,Late delivery/Food arrives cold,3
+02/10/2026 15:31:47,22-26,Occasionally (3–4 times a month),Zomato,Variety of food,Fast food,501-750,Price,Always,Never,No major problems,4
+02/10/2026 15:31:47,22-26,Occasionally (3–4 times a month),Zomato,Variety of food,"Fast food, South Indian",251-500,"Ratings & reviews, Price",Sometimes,Always,No major problems,4
+02/10/2026 15:31:47,18-21,Rarely (1–2 times a month),Others,Discounts/Offers,Indian,100-250,"Delivery time, Food Quality",Occasionally,Always,No major problems,5
+02/10/2026 15:31:48,18-21,Frequently (1–2 times a week),Zomato,Don't want to cook,Fast food,100-250,"Food Quality, Delivery time",Occasionally,Often,Packaging issues,4
+02/10/2026 15:31:48,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"Chinese, Indian",100-250,"Ratings & reviews, Delivery time",Occasionally,Sometimes,No major problems,3
+02/10/2026 15:31:48,18-21,Very frequently (3+ times a week),Zomato,Discounts/Offers,Chinese,100-250,"Food Quality, Ratings & reviews",Rarely,Rarely,No major problems,3
+02/10/2026 15:31:49,27-31,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"Chinese, Fast food",100-250,Food Quality,Always,Sometimes,No major problems,4
+02/10/2026 15:31:49,22-26,Occasionally (3–4 times a month),Zomato,Discounts/Offers,South Indian,100-250,"Ratings & reviews, Food Quality",Occasionally,Sometimes,No major problems,3
+02/10/2026 15:31:49,18-21,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"Indian, Chinese",Below 100,Food Quality,Sometimes,Always,Late delivery/Food arrives cold,3
+02/10/2026 15:31:49,18-21,Occasionally (3–4 times a month),Zomato,Don't want to cook,Chinese,100-250,"Price, Food Quality",Sometimes,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:31:49,22-26,Frequently (1–2 times a week),Zomato,Don't want to cook,Indian,501-750,"Ratings & reviews, Food Quality",Sometimes,Never,Late delivery/Food arrives cold,4
+02/10/2026 15:31:49,18-21,Occasionally (3–4 times a month),Zomato,Discounts/Offers,"Fast food, South Indian, Chinese",251-500,"Restaurant variety, Food Quality",Rarely,Sometimes,Late delivery/Food arrives cold,5
+02/10/2026 15:31:49,18-21,Rarely (1–2 times a month),Swiggy,Discounts/Offers,"Chinese, Indian",100-250,"Price, Delivery time",Occasionally,Always,Late delivery/Food arrives cold,1
+02/10/2026 15:31:49,18-21,Rarely (1–2 times a month),Zomato,Discounts/Offers,"Chinese, Indian, Fast food",More than 100,"Restaurant variety, Food Quality",Rarely,Sometimes,No major problems,4
+02/10/2026 15:31:49,18-21,Very frequently (3+ times a week),Zomato,Convenience/Saves time,Fast food,100-250,"Price, Delivery time",Sometimes,Often,No major problems,4
+02/10/2026 15:31:50,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,Indian,501-750,Price,Sometimes,Rarely,No major problems,5
+02/10/2026 15:31:50,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Don't want to cook,Fast food,251-500,"Price, Delivery time",Sometimes,Rarely,No major problems,4
+02/10/2026 15:31:50,18-21,Rarely (1–2 times a month),Toing,Convenience/Saves time,Fast food,100-250,Food Quality,Occasionally,Rarely,Packaging issues,4
+02/10/2026 15:31:50,18-21,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,"South Indian, Chinese, Indian",100-250,"Price, Food Quality",Sometimes,Never,No major problems,5
+02/10/2026 15:31:51,18-21,Rarely (1–2 times a month),Zomato,Convenience/Saves time,Indian,751-100,"Food Quality, Restaurant variety",Always,Rarely,Late delivery/Food arrives cold,4
+02/10/2026 15:31:51,18-21,Rarely (1–2 times a month),Swiggy,Variety of food,"Indian, Fast food, Chinese",Below 100,"Price, Food Quality",Sometimes,Always,Late delivery/Food arrives cold,2
+02/10/2026 15:31:51,22-26,Frequently (1–2 times a week),Swiggy,Don't want to cook,"Fast food, Chinese",100-250,Price,Occasionally,Often,Late delivery/Food arrives cold,3
+02/10/2026 15:31:51,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Convenience/Saves time,"South Indian, Chinese",100-250,Price,Sometimes,Sometimes,Poor food quality,2
+02/10/2026 15:31:51,18-21,Very frequently (3+ times a week),Toing,Don't want to cook,"Indian, Fast food",251-500,Price,Sometimes,Often,Incorrect/missing items,2
+02/10/2026 15:31:51,22-26,Rarely (1–2 times a month),Zomato,Discounts/Offers,Chinese,501-750,Food Quality,Sometimes,Sometimes,Poor food quality,3
+02/10/2026 15:31:52,18-21,Frequently (1–2 times a week),"Zomato, Swiggy",Convenience/Saves time,"Fast food, Chinese",100-250,"Ratings & reviews, Delivery time",Rarely,Often,Late delivery/Food arrives cold,2
+02/10/2026 15:31:52,27-31,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,Chinese,251-500,"Price, Food Quality",Sometimes,Sometimes,Poor food quality,3
+02/10/2026 15:31:52,Above 31,Frequently (1–2 times a week),Swiggy,Don't want to cook,"Fast food, South Indian",251-500,Price,Sometimes,Often,No major problems,5
+02/10/2026 15:31:52,27-31,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"Chinese, South Indian",251-500,"Delivery time, Price",Sometimes,Sometimes,Late delivery/Food arrives cold,5
+02/10/2026 15:31:52,22-26,Occasionally (3–4 times a month),Swiggy,Convenience/Saves time,"South Indian, Indian",251-500,"Ratings & reviews, Price",Always,Sometimes,Late delivery/Food arrives cold,4
+02/10/2026 15:31:52,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,"Chinese, Fast food",100-250,"Delivery time, Food Quality",Occasionally,Never,Late delivery/Food arrives cold,4
+02/10/2026 15:31:53,18-21,Occasionally (3–4 times a month),"Zomato, Swiggy",Discounts/Offers,"Fast food, Chinese",251-500,Price,Occasionally,Often,Packaging issues,4
+02/10/2026 15:31:53,22-26,Rarely (1–2 times a month),"Zomato, Swiggy",Discounts/Offers,Fast food,501-750,Restaurant variety,Always,Sometimes,No major problems,4
+02/10/2026 15:31:53,22-26,Never,"Zomato, Swiggy",Discounts/Offers,Chinese,251-500,"Ratings & reviews, Delivery time",Sometimes,Sometimes,Late delivery/Food arrives cold,3
+02/10/2026 15:31:53,18-21,Occasionally (3–4 times a month),Zomato,Convenience/Saves time,Fast food,251-500,"Price, Ratings & reviews",Sometimes,Sometimes,Packaging issues,4
+02/10/2026 15:31:53,22-26,Frequently (1–2 times a week),Swiggy,Discounts/Offers,"South Indian, Indian, Fast food",251-500,Food Quality,Sometimes,Rarely,No major problems,5
+02/10/2026 15:31:54,18-21,Very frequently (3+ times a week),Toing,Don't want to cook,"Fast food, Chinese",751-100,"Price, Food Quality",Sometimes,Often,No major problems,4
